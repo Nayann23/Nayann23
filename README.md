@@ -17,7 +17,7 @@
 - **Backend Development**:
   - Familiar with server-side technologies like **Node.js** and **Express.js**..
   - Knowledge of databases like **MongoDB** and **MySQL** for data management and storage.
-  - Exploring **authentication** and **authorization** mechanisms (JWT, OAuth).
+  
 
 - **Tools & Workflows**:
   - Proficient in version control with **Git** and collaboration on **GitHub**.
