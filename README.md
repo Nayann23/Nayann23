@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Nayann23
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Nayann23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/Nayann23](https://www.linkedin.com/in/nayan-darokar-468a85294/))
 - 👀 I’m interested in **Web Development, Gen Ai,**
 - 🌱 I’m currently learning **React.Js**
 - 💞️ I’m looking to collaborate on **exciting web development projects and innovative open-source contributions**
