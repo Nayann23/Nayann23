@@ -11,7 +11,7 @@
 
 - **Frontend Development**: 
   - Proficient in **HTML, CSS, JavaScript**.
-  - Experienced with modern CSS frameworks **Tailwind CSS**.
+  - Experienced with modern CSS frameworks **BootStrap & Tailwind CSS**.
   - Love building responsive, user-friendly interfaces that work seamlessly across devices.
   - Enthusiastic about **UI/UX design principles** and always aim to create visually appealing and intuitive applications.
 
