@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @Nayann23
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous">   
 
-- 👀 I’m interested in **Web Development, Gen Ai,**
+- 👀 I’m interested in **Web Development, Gen Ai,**<i class="fa-solid fa-code"></i> Web Development
 - 🌱 I’m currently learning **React.Js**
 - 💞️ I’m looking to collaborate on **exciting web development projects and innovative open-source contributions**
 - 😄 Pronouns: **He/Him**
