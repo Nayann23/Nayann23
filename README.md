@@ -2,7 +2,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-git-main-nayan-darokars-projects.vercel.app/)
 
 
-👀 **Interests**: Web Development, Gen AI, and innovative tech solutions  
+👀 **Interests**: Web Development, Mern Stack Development, Gen AI.
 🌱 **Currently Learning**: React.js  
 💞 **Looking to Collaborate On**: Exciting web development projects and open-source contributions  
 😄 **Pronouns**: He/Him
@@ -11,7 +11,7 @@
 
 ## 🌐 Web Development Skills & Interests
 
-I'm passionate about web development and always eager to explore new technologies and frameworks. Here’s a bit more about my journey:
+I'm passionate about web development and mern stack development always eager to explore new technologies and frameworks. Here’s a bit more about my journey:
 
 ### 🔥 Frontend Development
 - Proficient in **HTML**, **CSS**, **JavaScript**
