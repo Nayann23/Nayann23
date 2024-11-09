@@ -1,4 +1,4 @@
-# Hi, I’m @Nayann23 👋
+# Hi, I’m Nayann 👋
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-git-main-nayan-darokars-projects.vercel.app/)
 
 
