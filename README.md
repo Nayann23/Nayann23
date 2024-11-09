@@ -1,4 +1,6 @@
 # Hi, I’m @Nayann23 👋
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-git-main-nayan-darokars-projects.vercel.app/)
+
 
 👀 **Interests**: Web Development, Gen AI, and innovative tech solutions  
 🌱 **Currently Learning**: React.js  
@@ -69,11 +71,9 @@ I'm passionate about web development and always eager to explore new technologie
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstaprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithubusername)
-[![Behance](https://img.shields.io/badge/-Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yourbehance)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayann23)
+
 
 ---
 
@@ -81,4 +81,3 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 
 ---
 
-**Note**: Replace `yourusername`, `yourlinkedinprofile`, `yourinstaprofile`, `yourtwitterhandle`, `yourgithubusername`, and `yourbehance` with your actual profile links and username.
