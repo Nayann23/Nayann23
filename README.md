@@ -65,16 +65,16 @@ I'm passionate about web development and mern stack development always eager to 
 
 | **Top Languages**      |
 | ----------------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=dark) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=dark&count_private=true) |
 
 ---
+
 
 ## 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayann23)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilan%2Fprofile&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 ---
 
