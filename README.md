@@ -2,7 +2,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-git-main-nayan-darokars-projects.vercel.app/)
 
 
-👀 **Interests**: Web Development, Mern Stack Development, Gen AI, Artificial Intelligence & Machine Learning.
+👀 **Interests**: Web Development, Mern Stack Development, Gen AI, Artificial Intelligence & Machine Learning. <br>
 🌱 **Currently Learning**: React.js  
 💞 **Looking to Collaborate On**: Exciting web development projects and open-source contributions  
 😄 **Pronouns**: He/Him
