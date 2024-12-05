@@ -2,7 +2,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=icloud&logoColor=white)](https://perfectfolio-nayan-darokars-projects.vercel.app/)
 [![Professional-Intro](https://img.shields.io/badge/TooExclusive-ForYou-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/Too_Exclusive_For_You)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical)](https://github.com/Nayann23/Professional-Intro)
+
 
 
 
@@ -65,7 +65,7 @@ I'm passionate about web development and mern stack development always eager to 
 
 | **GitHub Stats**     | **Streak**              |
 | -------------------- | ----------------------- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=dark&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayann23&theme=dark) |
+|[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical)](https://github.com/Nayann23/Professional-Intro)
 
 | **Top Languages**      |
 | ----------------------- |
