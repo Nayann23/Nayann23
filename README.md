@@ -65,7 +65,7 @@ I'm passionate about web development and mern stack development always eager to 
 
 | **GitHub Stats**                                     | **Streak**                                             |
 | ---------------------------------------------------- | ----------------------------------------------------- |
-| [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical)](https://github.com/Professional-Intro) | [![GitHub Streak](https://streak-stats.demolab.com?user=Nayann23&theme=radical&hide_border=true)](https://github.com/Professional-Intro) |
+| [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical)](https://github.com/Professional-Intro) |
 
 | **Top Languages**      |
 | ----------------------- |
