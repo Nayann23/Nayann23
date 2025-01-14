@@ -63,13 +63,13 @@ I'm passionate about web development and mern stack development always eager to 
 ---
 ## 📊 GitHub Stats
 
-| **GitHub Stats**                                     | **Streak**                                             |
-| ---------------------------------------------------- | ----------------------------------------------------- |
+| **GitHub Stats**                                     | 
+| ---------------------------------------------------- | 
 | [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical)](https://github.com/Professional-Intro) |
 
 | **Top Languages**      |
 | ----------------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=dark&count_private=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=dark&count_private=true) 
 
 ---
 
