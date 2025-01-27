@@ -16,8 +16,6 @@
 
 ## 🌐 Web Development Skills & Interests
 
-I'm passionate about web development and mern stack development always eager to explore new technologies and frameworks. Here’s a bit more about my journey:
-
 ### 🔥 Frontend Development
 - Proficient in **HTML**, **CSS**, **JavaScript**
 - Experienced with modern CSS frameworks like **Bootstrap** and **Tailwind CSS**
