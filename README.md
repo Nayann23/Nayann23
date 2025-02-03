@@ -78,7 +78,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayann23)
 
 
----
+--- 
 
 Feel free to reach out if you’re interested in collaborating or just want to connect!
 
