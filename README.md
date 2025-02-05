@@ -1,7 +1,7 @@
 # Hi, I’m Nayann 👋
 
 [![Professional-Intro](https://img.shields.io/badge/TooExclusive-ForYou-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/Too_Exclusive_For_You) </br>
-**Today's Visit Count** ![Today's Visit Count](https://komarev.com/ghpvc/?username=Nayann23&color=blue&style=flat)
+**This Week Visit Count** ![Today's Visit Count](https://komarev.com/ghpvc/?username=Nayann23&color=blue&style=flat)
 
 
 
