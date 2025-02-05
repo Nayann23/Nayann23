@@ -8,7 +8,7 @@
 
 
 👀 **Interests**: Web Development, Mern Stack Development, Gen AI, Artificial Intelligence & Machine Learning. <br>
-🌱 **Currently Learning**: Python 
+🌱 **Currently Learning**: Python <br>
 💞 **Looking to Collaborate On**: Exciting web development projects and open-source contributions  
 😄 **Pronouns**: He/Him
 
