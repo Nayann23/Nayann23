@@ -3,7 +3,7 @@
 [![Professional-Intro](https://img.shields.io/badge/TooExclusive-ForYou-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/Too_Exclusive_For_You) </br>
 **This Week Visit Count** ![Today's Visit Count](https://komarev.com/ghpvc/?username=Nayann23&color=blue&style=flat) </br>
 
-[![Conversation If you want](https://img.shields.io/badge/TooExclusive-ForYou-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>
+[![Conversation If you want](https://img.shields.io/badge/Conversation-If-you-want-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>
 
 
 
