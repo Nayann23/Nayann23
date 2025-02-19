@@ -51,38 +51,26 @@
 ---
 
 ### 🤖 AI, Machine Learning & Data Science  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![NLP](https://img.shields.io/badge/-Natural_Language_Processing-FF5733?style=for-the-badge&logo=ai&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![LLMs](https://img.shields.io/badge/-Large_Language_Models-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NLP](https://img.shields.io/badge/-Natural_Language_Processing-FF5733?style=for-the-badge&logo=ai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)  ![LLMs](https://img.shields.io/badge/-Large_Language_Models-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)  
 
 ---
 
 ### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
 ### 🔧 Tools & Platforms  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![Cursor AI](https://img.shields.io/badge/-Cursor_AI-FF5F1F?style=for-the-badge&logo=ai&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-FF5F1F?style=for-the-badge&logo=ai&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
 ### 🎨 UI/UX & 3D Design  
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Spline](https://img.shields.io/badge/-Spline-0055FF?style=for-the-badge&logo=ai&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  ![Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Spline](https://img.shields.io/badge/-Spline-0055FF?style=for-the-badge&logo=ai&logoColor=white)  
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayann23)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayann23)
 
 
 --- 
