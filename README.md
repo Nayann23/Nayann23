@@ -18,7 +18,7 @@
 ### 🧠 AI & Machine Learning  
 - Proficient in **Python** for AI-driven applications and automation  
 - Experienced in **Natural Language Processing (NLP)** for text analysis and chatbot development  
-- Hands-on with **Deep Learning** frameworks like TensorFlow and PyTorch for model training  
+- Currently Learning Deep Learning Concepts
 - Enthusiastic about **Large Language Models (LLMs)** and their real-world applications  
 
 ### 🎨 Frontend Development  
