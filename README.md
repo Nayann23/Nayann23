@@ -3,11 +3,9 @@
 [![Professional-Intro](https://img.shields.io/badge/TooExclusive-ForYou-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/Too_Exclusive_For_You) </br>
 **This Week Visit Count** ![Today's Visit Count](https://komarev.com/ghpvc/?username=Nayann23&color=blue&style=flat) </br>
 
-**My Project Jarvis Automatically Interacting with Chatgpt You can Read the Conversation Here. --->[![Visit My Repo](https://img.shields.io/badge/GitHub-Visit_Repo-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>**
+**My Project Jarvis Automatically Interacting with Chatgpt You can Read the Conversation Here. [![Visit My Repo](https://img.shields.io/badge/GitHub-Visit_Repo-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>**
 
-
-
-
+---
 
 👀 **Interests**: Web Development, Mern Stack Development, Gen AI, Artificial Intelligence & Machine Learning. <br>
 🌱 **Currently Learning**: Python <br>
