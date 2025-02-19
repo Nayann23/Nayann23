@@ -13,23 +13,27 @@
 😄 **Pronouns**: He/Him
 
 ---
+## 🌐 Artificial Intelligence & Development Skills & Interests  
 
-## 🌐 Web Development Skills & Interests
+### 🧠 AI & Machine Learning  
+- Proficient in **Python** for AI-driven applications and automation  
+- Experienced in **Natural Language Processing (NLP)** for text analysis and chatbot development  
+- Hands-on with **Deep Learning** frameworks like TensorFlow and PyTorch for model training  
+- Enthusiastic about **Large Language Models (LLMs)** and their real-world applications  
 
-### 🔥 Frontend Development
-- Proficient in **HTML**, **CSS**, **JavaScript**
-- Experienced with modern CSS frameworks like **Bootstrap** and **Tailwind CSS**
-- Love building responsive, user-friendly interfaces that work seamlessly across devices
-- Enthusiastic about **UI/UX design principles** to create visually appealing and intuitive applications
+### 🎨 Frontend Development  
+- Proficient in **HTML**, **CSS**, **JavaScript**  
+- Experienced with modern CSS frameworks like **Bootstrap** and **Tailwind CSS**  
+- Passionate about building responsive, user-friendly interfaces with a strong focus on **UI/UX design principles**  
 
-### 🛠️ Backend Development
-- Familiar with server-side technologies like **Node.js** and **Express.js**
-- Knowledgeable in databases like **MongoDB** and **MySQL** for data management and storage
+### 🚀 Backend Development  
+- Skilled in **Node.js** and **Express.js** for server-side development  
+- Experience working with databases like **MongoDB** and **MySQL**  
 
-### ⚙️ Tools & Workflows
-- Proficient in version control with **Git** and collaboration on **GitHub**
-
----
+### ⚙️ Tools & Workflows  
+- Proficient in version control with **Git** and collaboration on **GitHub**  
+- Experienced in AI model deployment and API integrations  
+- Passionate about exploring the synergy between **Web Development** and **AI Technologies**  
 
 ## 🚀 Languages and Tools:
 
