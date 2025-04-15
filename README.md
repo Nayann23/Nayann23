@@ -58,7 +58,7 @@
 ---
 
 ## 🤖 AI, Python & Machine Learning  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NLP](https://img.shields.io/badge/-Natural_Language_Processing-FF5733?style=for-the-badge&logo=ai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)  ![LLMs](https://img.shields.io/badge/-Large_Language_Models-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)  ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-FF5F1F?style=for-the-badge&logo=ai&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NLP](https://img.shields.io/badge/-NLP-FF5733?style=for-the-badge&logo=ai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)  ![LLMs](https://img.shields.io/badge/-Large_Language_Models-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)  ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-FF5F1F?style=for-the-badge&logo=ai&logoColor=white)  
 
 ## 🔗 Connect with me:
 
