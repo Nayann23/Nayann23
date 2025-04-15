@@ -68,7 +68,7 @@
 
 ## 🤖 AI, Python & Machine Learning  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-  ![NLP](https://img.shields.io/badge/-Natural_Language_Processing-FF5733?style=for-the-badge&logo=ai&logoColor=white)   ![LLMs](https://img.shields.io/badge/-Large_Language_Models-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)  !
+  ![NLP](https://img.shields.io/badge/-Natural_Language_Processing-FF5733?style=for-the-badge&logo=ai&logoColor=white)   ![LLMs](https://img.shields.io/badge/-Large_Language_Models-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)  
 ## 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
