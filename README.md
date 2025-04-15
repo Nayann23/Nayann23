@@ -1,11 +1,12 @@
 # Hi, I’m Nayann 👋
 
-[![Professional-Intro](https://img.shields.io/badge/TooExclusive-ForYou-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/Too_Exclusive_For_You) </br>
-**This Week Visit Count** ![Today's Visit Count](https://komarev.com/ghpvc/?username=Nayann23&color=blue&style=flat) </br>
+[![Professional-Intro](https://img.shields.io/badge/TooExclusive-ForYou-black?style=for-the-badge&logo=github)](https://github.com//Too_Exclusive_For_You) </br>
+**This Week Visit Count** ![Today's Visit Count](https://komarev.com/ghpvc/?username=&color=blue&style=flat) </br>
 
-**My Project Jarvis Automatically Interacting with Chatgpt You can Read the Conversation Here. [![Visit My Repo](https://img.shields.io/badge/GitHub-Visit_Repo-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>**
+**My Project Jarvis Automatically Interacting with Chatgpt You can Read the Conversation Here. [![Visit My Repo](https://img.shields.io/badge/GitHub-Visit_Repo-black?style=for-the-badge&logo=github)](https://github.com//The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>**
 
 ---
+
 👀 **Interests**: Web Development, Mern Stack Development, Gen AI, Artificial Intelligence & Machine Learning  
 🌱 **Currently Learning**: Python  
 💞 **Looking to Collaborate On**: Exciting web development projects and open-source contributions  
@@ -36,6 +37,7 @@
 - Passionate about exploring the synergy between **Web Development** and **AI Technologies**  
 
 ---
+
 # 🚀 Tech Stack Overview  
 
 ## 🌍 Full-Stack Development  
@@ -46,18 +48,24 @@
 ## ☁️ Deployment, Cloud & IDEs  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-
 ---
 
 ## 🤖 AI, Python & Machine Learning  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![NLP](https://img.shields.io/badge/-Natural_Language_Processing-FF5733?style=for-the-badge&logo=ai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)  ![LLMs](https://img.shields.io/badge/-Large_Language_Models-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)  ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-FF5F1F?style=for-the-badge&logo=ai&logoColor=white)  
 
+---
+
+## 🏅 GitHub Stats & Mission Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nayann23)
+![Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact)
+
+---
+
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayann23)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 --- 
 Feel free to reach out if you’re interested in collaborating or just want to connect!
 ---
-
