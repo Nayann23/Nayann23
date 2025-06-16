@@ -7,7 +7,7 @@
 
 ---
 👀 **Interests**: Web Development, Mern Stack Development, Gen AI, Artificial Intelligence & Machine Learning  
-🌱 **Currently Learning**: Python  
+🌱 **Currently Learning**: DL
 💞 **Looking to Collaborate On**: Exciting web development projects and open-source contributions  
 😄 **Pronouns**: He/Him  
 
@@ -25,9 +25,8 @@
 
 ### 🧠 AI & Machine Learning  
 - Proficient in **Python** for AI-driven applications and automation  
-- Experienced in **Natural Language Processing (NLP)** for text analysis and chatbot development  
 - Currently Learning Deep Learning Concepts  
-- Enthusiastic about **Large Language Models (LLMs)** and their real-world applications  
+- Enthusiastic about Learning **Large Language Models (LLMs)** and their real-world applications  
 
 ### 🎨 Frontend Development  
 - Proficient in **HTML**, **CSS**, **JavaScript**  
