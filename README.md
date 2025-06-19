@@ -1,6 +1,6 @@
 # Hi, I’m Nayann 👋
 
-**This Monthly Visit Count** ![Today's Visit Count](https://komarev.com/ghpvc/?username=Nayann23&color=blue&style=flat) </br>
+**Monthly Visit Count** ![Monthly's Visit Count](https://komarev.com/ghpvc/?username=Nayann23&color=blue&style=flat) </br>
 
 **My Project Jarvis Automatically Interacting with Chatgpt You can Read the Conversation Here. [![Visit My Repo](https://img.shields.io/badge/GitHub-Visit_Repo-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>**
 
