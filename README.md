@@ -5,7 +5,7 @@
 **My Project Jarvis Automatically Interacting with Chatgpt You can Read the Conversation Here. [![Visit My Repo](https://img.shields.io/badge/GitHub-Visit_Repo-black?style=for-the-badge&logo=github)](https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-) </br>**
 
 ---
-👀 **Interests**: Web Development, Mern Stack Development, Gen AI, Artificial Intelligence & Machine Learning  
+👀 **Interests**: Data Science, Data Analyst , Gen AI, Artificial Intelligence & Machine Learning,Web Development, Mern Stack Development,  
 🌱 **Currently Learning**: DL
 💞 **Looking to Collaborate On**: Exciting web development projects and open-source contributions  
 😄 **Pronouns**: He/Him  
