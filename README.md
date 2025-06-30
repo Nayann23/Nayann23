@@ -6,11 +6,11 @@
 
 ## About Me
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/> **Background**: Former MERN Stack Developer, now transitioning into the AI/ML domain
-- 📘 **Currently Learning**: Focused on **Deep Learning** and related AI technologies  
-- 💬 **Always Curious**: Actively exploring ideas and learning in the AI/ML space  
-- 👀 **Interests**: Data Science, AI & ML, Generative AI, and Intelligent Web Applications  
-- 😄 **Pronouns**: He/Him  
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/> **Background: Former MERN Stack Developer, now transitioning into the AI/ML domain**
+- 📘 **Currently Learning: Focused on **Deep Learning** and related AI technologies**
+- 💬 **Always Curious: Actively exploring ideas and learning in the AI/ML space**  
+- 👀 **Interests: Data Science, AI & ML, Generative AI, and Intelligent Web Applications**  
+- 😄 **Pronouns: He/Him** 
 
 ---
 
