@@ -3,8 +3,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge)
 
 ----
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Nayann23&theme=radical&no-frame=true&row=2&column=8)
 
 ## **About Me**
 
