@@ -4,7 +4,7 @@
 
 ----
 ### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Nayann23&theme=radical&no-frame=true&row=2&column=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Nayann23&theme=radical&no-frame=true&row=2&column=8)
 
 ## **About Me**
 
