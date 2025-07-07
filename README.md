@@ -50,9 +50,11 @@
 To become a **Data Scientist**, blending **ML/AI models** with real-world datasets and building **impactful solutions**.  
 Previously worked as a **Full Stack Developer**, now transitioning fully into the AI/ML domain.
 
-<img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
+---
 
 ## **📫 Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
+
+<img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
