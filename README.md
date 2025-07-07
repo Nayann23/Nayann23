@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
+---
 
 ## **About Me**
 
@@ -12,7 +12,7 @@
 - 👀 **Interests: Data Science, AI & ML, Generative AI, and Intelligent Web Applications**  
 - 😄 **Pronouns: He/Him** 
 
-<img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
+---
 
 ## **📊 GitHub Stats**
 
@@ -22,7 +22,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nayann23&theme=tokyonight&hide_border=false" width="45%" >
 </p>
 
-<img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
+---
 
 ## **🤖 AI, ML & Python Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
@@ -50,7 +50,7 @@
 To become a **Data Scientist**, blending **ML/AI models** with real-world datasets and building **impactful solutions**.  
 Previously worked as a **Full Stack Developer**, now transitioning fully into the AI/ML domain.
 
-
+<img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
 ## 📫 **📫 Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
