@@ -4,7 +4,7 @@
  
 ---
 
-## **About Me**
+## **About Me** 
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/> **Background: Former MERN Stack Developer, now transitioning into the AI/ML domain**
 - 📘 **Currently Learning: Focused on **Deep Learning** and related AI technologies**
