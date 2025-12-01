@@ -17,7 +17,7 @@
 ## **📊 GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical&hide_border=true" width="45%">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
   <img src="https://streak-stats.demolab.com?user=Nayann23&theme=tokyonight&hide_border=false" width="45%">
 </p>
@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=tokyonight" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=tokyonight" width="32%"> </br>
   <img src="https://metrics.lecoq.io/Nayann23?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" width="32%">
 </p>
 
@@ -51,7 +51,8 @@
 ## 🚀 Current Skills — AI & Machine Learning
 
 <!-- Major Modern Tools -->
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Jupyter-1A1A1A.svg?style=flat&logo=jupyter&logoColor=F37726" />
 
 <!-- Minimal Modern Badges -->
 <p align="left">
