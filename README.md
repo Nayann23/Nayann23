@@ -37,13 +37,14 @@
 
 ---
 
-<h2 align="left">👩🏻‍💻 Most used Language:</h2>
+<h2 align="left">👩🏻‍💻 Most Used Languages (Modern, Stable & Matching Theme)</h2>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=solarized)
-![Languages](https://metrics.lecoq.io/Nayann23?template=classic&languages=1&languages.limit=8&languages.details=percent%2Cbytes-size&config.timezone=Asia%2FCalcutta)
-
-
+<!-- Beautiful, stable, dark-theme compatible cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=tokyonight" width="32%">
+  <img src="https://metrics.lecoq.io/Nayann23?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" width="32%">
+</p>
 
 ---
 
@@ -51,7 +52,6 @@
 
 <!-- Major Modern Tools -->
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,jupyter,git,github&theme=dark)](https://skillicons.dev)
-
 
 <!-- Minimal Modern Badges -->
 <p align="left">
@@ -65,10 +65,7 @@
 
 <!-- NLP -->
 <img src="https://img.shields.io/badge/spaCy-8CAAE6.svg?style=flat&logo=spacy&logoColor=white" />
-
-<!-- FIXED NLTK – Full Visibility -->
 <img src="https://img.shields.io/badge/NLTK-0A3D3D.svg?style=flat&logo=python&logoColor=white" />
-
 <img src="https://img.shields.io/badge/LangChain-FB5710.svg?style=flat&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-FF5733.svg?style=flat&logo=ai&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-8A2BE2.svg?style=flat&logo=ai&logoColor=white" />
@@ -139,9 +136,9 @@ Previously a **Full Stack Developer**, now fully transitioning into the AI/ML do
 
 ---
 
-## **📫 Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
-
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
+
+---
+
+## **📫 Connect with Me** 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
