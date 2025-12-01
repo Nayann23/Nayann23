@@ -32,19 +32,13 @@
 
 ---
 
-
-<h2 align="left">👩🏻‍💻 Most used Language:</h2>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
-
----
-
 <h2 align="left">📈 Activity:</h2>
 
-![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ED9AC2&line=ED9AC2&point=ED9AC2&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true)
 
+<br
 ---
+
 
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
