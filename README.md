@@ -40,7 +40,8 @@
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
+![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&theme=dark&hide_border=true&text_color=00FFFF&include_all_commits=false&count_private=false&layout=normal&card_width=700)
+
 
 ---
 
@@ -49,7 +50,8 @@
 ## 🚀 Current Skills — AI & Machine Learning
 
 <!-- Major Modern Tools -->
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,jupyter,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,jupyter,git,github&theme=dark)](https://skillicons.dev)
+
 
 <!-- Minimal Modern Badges -->
 <p align="left">
