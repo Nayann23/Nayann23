@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical&hide_border=true" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
+  <img src="https://streak-stats.demolab.com?user=Nayann23&theme=tokyonight&hide_border=false" width="45%">
 </p>
 
 ---
@@ -37,9 +38,8 @@
 
 ---
 
-<h2 align="left">👩🏻‍💻 Most Used Languages (Modern, Stable & Matching Theme)</h2>
+<h2 align="left">👩🏻‍💻 Most Used Languages:</h2>
 
-<!-- Beautiful, stable, dark-theme compatible cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight" width="32%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=tokyonight" width="32%">
@@ -51,7 +51,7 @@
 ## 🚀 Current Skills — AI & Machine Learning
 
 <!-- Major Modern Tools -->
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,jupyter,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,git,github&theme=dark)](https://skillicons.dev)
 
 <!-- Minimal Modern Badges -->
 <p align="left">
@@ -80,6 +80,7 @@
 <!-- Extra -->
 <img src="https://img.shields.io/badge/Computer%20Vision-4682B4.svg?style=flat&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791.svg?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0064a5.svg?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" />
 
 </p>
@@ -134,11 +135,8 @@
 To become a **Data Scientist**, blending advanced **ML/AI models** with real-world datasets to build meaningful, impactful solutions.  
 Previously a **Full Stack Developer**, now fully transitioning into the AI/ML domain.
 
----
-
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
 
----
 
 ## **📫 Connect with Me** 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
