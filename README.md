@@ -1,16 +1,16 @@
 # Hi, I'm Nayann! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi">
 
 ![Visitors](https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge)
- 
+
 ---
 
-## **About Me** 
+## **About Me**
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/> **Background: Former MERN Stack Developer, now transitioning into the AI/ML domain**
-- 📘 **Currently Learning: Focused on **Deep Learning** and related AI technologies**
-- 💬 **Always Curious: Actively exploring ideas and learning in the AI/ML space**  
-- 👀 **Interests: Data Science, AI & ML, Generative AI, and Intelligent Web Applications**  
-- 😄 **Pronouns: He/Him** 
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/> **Background:** Former MERN Stack Developer, now transitioning into the AI/ML domain  
+- 📘 **Currently Learning:** Deep Learning & related AI technologies  
+- 💬 **Always Curious:** Exploring AI/ML innovations and applied learning  
+- 👀 **Interests:** Data Science, Generative AI, Machine Learning, Intelligent Web Systems  
+- 😄 **Pronouns:** He/Him  
 
 ---
 
@@ -19,13 +19,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical&hide_border=true" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nayann23&theme=tokyonight&hide_border=false" width="45%" >
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nayann23&theme=tokyonight&hide_border=false" width="45%">
 </p>
 
 ---
 
+## 🏆 **GitHub Trophies**
 
-## 🏆 GitHub Trophies:
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Nayann23&theme=dracula&no-frame=false&column=8" />
 </p>
@@ -37,7 +37,6 @@
 ![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true)
 
 ---
-
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
@@ -52,7 +51,7 @@
 <!-- Major Modern Tools -->
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,jupyter,git,github)](https://skillicons.dev)
 
-<!-- Minimal Modern Badges (Perfectly aligned & consistent) -->
+<!-- Minimal Modern Badges -->
 <p align="left">
 
 <!-- Data Science -->
@@ -64,7 +63,10 @@
 
 <!-- NLP -->
 <img src="https://img.shields.io/badge/spaCy-8CAAE6.svg?style=flat&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-white.svg?style=flat&logo=python&logoColor=009688&labelColor=ffffff" />
+
+<!-- FIXED NLTK – Full Visibility -->
+<img src="https://img.shields.io/badge/NLTK-0A3D3D.svg?style=flat&logo=python&logoColor=white" />
+
 <img src="https://img.shields.io/badge/LangChain-FB5710.svg?style=flat&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-FF5733.svg?style=flat&logo=ai&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-8A2BE2.svg?style=flat&logo=ai&logoColor=white" />
@@ -85,7 +87,7 @@
 
 ---
 
-## **💻Former Frontend Development Skills**
+## **💻 Former Frontend Development Skills**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -130,8 +132,8 @@
 
 ## 🧑‍💻 **Goal**
 
-To become a **Data Scientist**, blending **ML/AI models** with real-world datasets and building **impactful solutions**.  
-Previously worked as a **Full Stack Developer**, now transitioning fully into the AI/ML domain.
+To become a **Data Scientist**, blending advanced **ML/AI models** with real-world datasets to build meaningful, impactful solutions.  
+Previously a **Full Stack Developer**, now fully transitioning into the AI/ML domain.
 
 ---
 
