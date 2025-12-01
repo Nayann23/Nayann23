@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=radical&hide_border=true" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nayann23&theme=tokyonight&hide_border=false" width="45%">
 </p>
 
 ---
@@ -40,12 +39,13 @@
 
 <h2 align="left">👩🏻‍💻 Most used Language:</h2>
 
-![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&theme=dark&hide_border=true&text_color=00FFFF&include_all_commits=false&count_private=false&layout=normal&card_width=700)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=solarized)
+![Languages](https://metrics.lecoq.io/Nayann23?template=classic&languages=1&languages.limit=8&languages.details=percent%2Cbytes-size&config.timezone=Asia%2FCalcutta)
+
 
 
 ---
-
-## **🤖 AI, ML & Python Tools**
 
 ## 🚀 Current Skills — AI & Machine Learning
 
