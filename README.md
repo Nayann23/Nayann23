@@ -47,42 +47,41 @@
 </p>
 
 ---
-
 ## 🚀 Current Skills — AI & Machine Learning
 
 <!-- Major Modern Tools -->
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github&theme=dark)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/Jupyter-1A1A1A.svg?style=flat&logo=jupyter&logoColor=F37726" />
 
-<!-- Minimal Modern Badges -->
+
 <p align="left">
 
 <!-- Data Science -->
-<img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0.svg?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat&logo=plotly&logoColor=white" />
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-1A1A1A?style=for-the-badge&logo=jupyter&logoColor=F37726)
 
 <!-- NLP -->
-<img src="https://img.shields.io/badge/spaCy-8CAAE6.svg?style=flat&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-0A3D3D.svg?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-FB5710.svg?style=flat&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-FF5733.svg?style=flat&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-8A2BE2.svg?style=flat&logo=ai&logoColor=white" />
+![spaCy](https://img.shields.io/badge/-spaCy-8CAAE6?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-0A3D3D?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-FB5710?style=for-the-badge&logo=chainlink&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-FF5733?style=for-the-badge&logo=ai&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
 
 <!-- ML / DL -->
-<img src="https://img.shields.io/badge/Deep%20Learning-0000FF.svg?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000.svg?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-AA0000.svg?style=flat&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/LightGBM-013220.svg?style=flat&logo=leaflet&logoColor=white" />
-<img src="https://img.shields.io/badge/CatBoost-FFCC00.svg?style=flat&logo=python&logoColor=black" />
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-013220?style=for-the-badge&logo=leaflet&logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=for-the-badge&logo=python&logoColor=black)
 
 <!-- Extra -->
-<img src="https://img.shields.io/badge/Computer%20Vision-4682B4.svg?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791.svg?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-0064a5.svg?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" />
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-4682B4?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </p>
 
