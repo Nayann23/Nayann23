@@ -47,7 +47,7 @@
 
 ## **🤖 AI, ML & Python Tools**
 
-## 🚀 Current Focus — AI & Machine Learning
+## 🚀 Current Skills — AI & Machine Learning
 
 <!-- Major Modern Tools -->
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,postgres,jupyter,git,github)](https://skillicons.dev)
@@ -64,7 +64,7 @@
 
 <!-- NLP -->
 <img src="https://img.shields.io/badge/spaCy-8CAAE6.svg?style=flat&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-009688.svg?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-white.svg?style=flat&logo=python&logoColor=009688&labelColor=ffffff" />
 <img src="https://img.shields.io/badge/LangChain-FB5710.svg?style=flat&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-FF5733.svg?style=flat&logo=ai&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-8A2BE2.svg?style=flat&logo=ai&logoColor=white" />
@@ -85,7 +85,7 @@
 
 ---
 
-## **💻 Frontend Development**
+## **💻Former Frontend Development Skills**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -103,7 +103,7 @@
 
 ---
 
-## 🧰 **Backend, Deployment & Dev Tools**
+## 🧰 **Former Backend, Deployment & Dev Tools**
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-444444?style=for-the-badge&logo=express&logoColor=white)
