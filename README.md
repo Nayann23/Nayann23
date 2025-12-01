@@ -24,6 +24,35 @@
 
 ---
 
+
+## 🏆 GitHub Trophies:
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=Nayann23&theme=dracula&no-frame=false&column=8" />
+</p>
+
+---
+
+
+<h2 align="left">👩🏻‍💻 Most used Language:</h2>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
+
+---
+
+<h2 align="left">📈 Activity:</h2>
+
+![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ED9AC2&line=ED9AC2&point=ED9AC2&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+---
+
+
+<h2 align="left">👩🏻‍💻 Most used Language:</h2>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&theme=dark&hide_border=true&text_color=ED9AC2&include_all_commits=false&count_private=false&layout=normal&card_width=700)
+
+---
+
 ## **🤖 AI, ML & Python Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![spaCy](https://img.shields.io/badge/-spaCy-8CAAE6?style=for-the-badge&logo=spaCy&logoColor=white) ![NLP](https://img.shields.io/badge/-Natural_Language_Processing-FF5733?style=for-the-badge&logo=ai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-FB5710?style=for-the-badge&logo=ai&logoColor=blue) 
