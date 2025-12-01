@@ -34,7 +34,7 @@
 
 <h2 align="left">📈 Activity:</h2>
 
-![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Sakshi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true)
+![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true)
 
 <br
 ---
