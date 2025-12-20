@@ -16,18 +16,7 @@
 
 ## **📊 GitHub Stats**
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
-![GitHub Streak](https://streak-stats.demolab.com?user=Nayann23&theme=tokyonight)
-
-</p>
-
----
-
-## 🏆 **GitHub Trophies**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nayann23&theme=dracula&column=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
 
 ---
 
