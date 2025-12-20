@@ -19,7 +19,8 @@
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
-  <img src="https://streak-stats.demolab.com?user=Nayann23&theme=tokyonight&hide_border=false" width="45%">
+<img src="https://streak-stats.demolab.com?user=Nayann23&theme=tokyonight&hide_border=false" width="45%">
+
 </p>
 
 ---
@@ -27,7 +28,7 @@
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Nayann23&theme=dracula&no-frame=false&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nayann23&theme=dracula&no-frame=false&column=8" />
 </p>
 
 ---
