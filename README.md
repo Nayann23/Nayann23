@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi, I'm Nayann Darokar!
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
+  
   ![Visitors](https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge)
+  
 </h1>
 
 
