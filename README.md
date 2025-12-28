@@ -1,8 +1,13 @@
-# Hi, I'm Nayann! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi">
+<h1 align="center">
+  Hi, I'm Nayann Darokar!
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
+  ![Visitors](https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge)
+</h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge)
 
-# 🖥 Working In Pune Maharashtra 
+
+
+#### **🖥 Working In Pune Maharashtra** 
 ![System UI](./g2dh.gif)
 
 
