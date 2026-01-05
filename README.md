@@ -9,9 +9,13 @@
 
 ---
 
-### **🖥 Currently Working In Pune Maharashtra, India** 
+<div align="center">
 
-![System UI](./g2dh.gif)
+### 🖥 Currently Working In Pune, Maharashtra, India
+
+<img src="./g2dh.gif" alt="System UI">
+
+</div>
 
 ---
 
