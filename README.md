@@ -3,9 +3,15 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
 </br>
   
-  ![Visitors](https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge)
-  
 </h1>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+
+</div>
+
 
 
 <div align="center">
