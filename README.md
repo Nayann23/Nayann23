@@ -18,13 +18,21 @@
 
 ---
 
+<div align="center">
+
 ## **About Me**
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/> **Background:** Former MERN Stack Developer, now transitioning into the AI/ML domain  
-- 📘 **Currently Learning:** Deep Learning & related AI technologies  
-- 💬 **Always Curious:** Exploring AI/ML innovations and applied learning  
-- 👀 **Interests:** Data Science, Generative AI, Machine Learning, Intelligent Web Systems  
-- 😄 **Pronouns:** He/Him  
+<p>
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/>
+<strong>Background:</strong> Former MERN Stack Developer, now transitioning into the AI/ML domain
+</p>
+
+<p>📘 <strong>Currently Learning:</strong> Deep Learning & related AI technologies</p>
+<p>💬 <strong>Always Curious:</strong> Exploring AI/ML innovations and applied learning</p>
+<p>👀 <strong>Interests:</strong> Data Science, Generative AI, Machine Learning, Intelligent Web Systems</p>
+<p>😄 <strong>Pronouns:</strong> He/Him</p>
+
+</div>
 
 ---
 
