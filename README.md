@@ -2,24 +2,34 @@
   Hi, I'm Nayann Darokar!
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
 </br>
-  
 </h1>
 
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
-
+  <img src="https://komarev.com/ghpvc/?username=usernamehere&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
 </div>
 
+<div align="center">
+  <h3>🖥 Currently Working In Pune, Maharashtra, India</h3>
+  <p><i>To become a <strong>Data Scientist</strong>, blending advanced <strong>ML/AI models</strong> with real-world datasets to build meaningful, impactful solutions. Previously a <strong>Full Stack Developer</strong>, now fully transitioning into the AI/ML domain.</i></p>
+</div>
 
+---
+
+## 🚀 Applied Machine Learning & Systems
+
+I build **Applied Machine Learning Systems** and interactive data interfaces. My work bridges the gap between raw model weights and end-to-end user evaluation. 
+
+### 🧠 What I Build
+* **Fraud Intelligence:** Financial threat detection using hybrid models (LightGBM/Random Forest) with real-time heuristic scoring.
+* **Predictive Analytics:** Churn evaluation engines optimized for edge environments using lean inference.
+* **Explainable AI (XAI):** Sentiment and diagnostic platforms using NLP and computer vision (CNNs).
+* **ML Interfaces:** Full-stack deployment of analytical dashboards utilizing Flask and Tailwind CSS.
+
+### 🖥 The SynapseDocs Hub
+I recently launched an interactive, physics-based network graph ("Neural Tree") where I drop my complete ML system architectures, deep dives, and live demonstrations.
 
 <div align="center">
-
-### 🖥 Currently Working In Pune, Maharashtra, India
-
-<img src="./g2dh.gif" alt="System UI">
-
+  <img src="./g2dh.gif" alt="System UI">
 </div>
 
 ---
@@ -42,36 +52,12 @@
 
 ---
 
-## **📊 GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
-
----
-
-<h2 align="left">📈 Activity:</h2>
-
-![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true)
-
----
-
-<h2 align="left">👩🏻‍💻 Most Used Languages:</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=tokyonight" width="32%"> </br>
-  <img src="https://metrics.lecoq.io/Nayann23?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" width="32%">
-</p>
-
----
 ## 🚀 Current Skills — AI & Machine Learning
 
-<!-- Major Modern Tools -->
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github&theme=dark)](https://skillicons.dev)
-
 
 <p align="left">
 
-<!-- Data Science -->
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -79,21 +65,18 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-1A1A1A?style=for-the-badge&logo=jupyter&logoColor=F37726)
 
-<!-- NLP -->
 ![spaCy](https://img.shields.io/badge/-spaCy-8CAAE6?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-0A3D3D?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-FB5710?style=for-the-badge&logo=chainlink&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-FF5733?style=for-the-badge&logo=ai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
 
-<!-- ML / DL -->
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-0000FF?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-013220?style=for-the-badge&logo=leaflet&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=for-the-badge&logo=python&logoColor=black)
 
-<!-- Extra -->
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-4682B4?style=for-the-badge&logo=opencv&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -146,13 +129,24 @@
 
 ---
 
-## 🧑‍💻 **Goal**
+## **📊 GitHub Stats**
 
-To become a **Data Scientist**, blending advanced **ML/AI models** with real-world datasets to build meaningful, impactful solutions.  
-Previously a **Full Stack Developer**, now fully transitioning into the AI/ML domain.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamehere&layout=compact&theme=radical&hide_border=true" width="35%">
+
+---
+
+<h2 align="left">📈 Activity:</h2>
+
+![usernamehere's Graph](https://github-readme-activity-graph.vercel.app/graph?username=usernamehere&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true)
+
+---
+
+<h2 align="left">👩🏻‍💻 Most Used Languages:</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usernamehere&theme=tokyonight" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usernamehere&theme=tokyonight" width="32%"> </br>
+  <img src="https://metrics.lecoq.io/usernamehere?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" width="32%">
+</p>
 
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
-
-
-## **📫 Connect with Me** 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
