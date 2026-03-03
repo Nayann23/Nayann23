@@ -12,9 +12,9 @@
   deterministic pipelines, intelligent retrieval, and real-world deployment readiness.
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
-</div>
+</p>
 
 ---
 
@@ -30,13 +30,11 @@
 
 ## 🧠 About Me
 
-<p>
-🌱 <strong>Background:</strong> Former MERN Stack Developer, now transitioning into the AI/ML domain  
-📘 <strong>Currently Deepening Expertise In:</strong> Deep Learning, Retrieval Systems, and Applied AI Engineering  
-💬 <strong>Always Curious:</strong> Exploring AI/ML innovations through hands-on implementation  
-👀 <strong>Interests:</strong> Data Science, Generative AI, Machine Learning, Intelligent Web Systems  
-😄 <strong>Pronouns:</strong> He/Him  
-</p>
+* **Background:** Former MERN Stack Developer, now transitioning into the AI/ML domain
+* **Currently Deepening Expertise In:** Deep Learning, Retrieval Systems, and Applied AI Engineering
+* **Always Curious:** Exploring AI/ML innovations through hands-on implementation
+* **Interests:** Data Science, Generative AI, Machine Learning, Intelligent Web Systems
+* **Pronouns:** He/Him
 
 ---
 
@@ -46,6 +44,7 @@
 * Building semantic and similarity-based retrieval systems
 * Exploring RAG-style architectures and intelligent ranking
 * Emphasizing modular, production-aware project structure
+* Bridging full-stack engineering discipline with modern AI workflows
 
 ---
 
@@ -173,12 +172,10 @@
 
 ## 🎯 Goal
 
-To evolve into a strong <strong>Data Scientist / ML Engineer</strong> by building reliable,
-production-oriented ML systems that solve meaningful real-world problems.
+To evolve into a strong <strong>Data Scientist / ML Engineer</strong> by building reliable, production-oriented ML systems that solve meaningful real-world problems.
 Previously a <strong>Full Stack Developer</strong>, now deeply focused on the AI/ML engineering path.
 
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
-
 ---
 
 ## **📫 Connect with Me** 
