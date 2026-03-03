@@ -28,23 +28,47 @@
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
-* **Background:** Former MERN Stack Developer, now transitioning into the AI/ML domain
-* **Currently Deepening Expertise In:** Deep Learning, Retrieval Systems, and Applied AI Engineering
-* **Always Curious:** Exploring AI/ML innovations through hands-on implementation
-* **Interests:** Data Science, Generative AI, Machine Learning, Intelligent Web Systems
-* **Pronouns:** He/Him
+<div align="center">
+
+<ul align="left" style="display: inline-block; text-align: left;">
+
+<li><strong>Background:</strong> Former MERN Stack Developer, now transitioning into the AI/ML domain</li>
+
+<li><strong>Currently Deepening Expertise In:</strong> Deep Learning, Retrieval Systems, and Applied AI Engineering</li>
+
+<li><strong>Always Curious:</strong> Exploring AI/ML innovations through hands-on implementation</li>
+
+<li><strong>Interests:</strong> Data Science, Generative AI, Machine Learning, Intelligent Web Systems</li>
+
+<li><strong>Pronouns:</strong> He/Him</li>
+
+</ul>
+
+</div>
 
 ---
 
-## ⚙️ Systems Focus
+<h2 align="center">⚙️ Systems Focus</h2>
 
-* Designing deterministic ML pipelines with reproducible workflows
-* Building semantic and similarity-based retrieval systems
-* Exploring RAG-style architectures and intelligent ranking
-* Emphasizing modular, production-aware project structure
-* Bridging full-stack engineering discipline with modern AI workflows
+<div align="center">
+
+<ul align="left" style="display: inline-block; text-align: left;">
+
+<li>Designing deterministic ML pipelines with reproducible workflows</li>
+
+<li>Building semantic and similarity-based retrieval systems</li>
+
+<li>Exploring RAG-style architectures and intelligent ranking</li>
+
+<li>Emphasizing modular, production-aware project structure</li>
+
+<li>Bridging full-stack engineering discipline with modern AI workflows</li>
+
+</ul>
+
+</div>
 
 ---
 
@@ -176,7 +200,3 @@ To evolve into a strong <strong>Data Scientist / ML Engineer</strong> by buildin
 Previously a <strong>Full Stack Developer</strong>, now deeply focused on the AI/ML engineering path.
 
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
----
-
-## **📫 Connect with Me** 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
