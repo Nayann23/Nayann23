@@ -146,10 +146,9 @@
 
 ---
 
-## 🧑‍💻 **Goal**
+## 🧑‍💻 Focus
 
-To become a **Data Scientist**, blending advanced **ML/AI models** with real-world datasets to build meaningful, impactful solutions.  
-Previously a **Full Stack Developer**, now fully transitioning into the AI/ML domain.
+**Applied Data Scientist** specialized in blending advanced ***ML/AI models*** with real-world datasets to build meaningful, impactful solutions. I leverage my **Full Stack Engineering** background to architect end-to-end intelligent systems.**
 
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
 
