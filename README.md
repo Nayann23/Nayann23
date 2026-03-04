@@ -1,41 +1,46 @@
-<h1 align="center">
+<h1 align="left">
   Hi, I'm Nayann Darokar!
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
 </br>
-  
 </h1>
 
-<div align="center">
+---
+
+<div align="left">
 
 <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
-<div align="center">
+---
 
-### 🖥 Currently Working In Pune, Maharashtra, India
-
-<img src="./g2dh.gif" alt="System UI">
-
+<div align="left">
+  <h3>🖥 Currently Working In, Pune Maharashtra, India</h3>
+  <p><i>To become a <strong>Data Scientist</strong>, blending advanced <strong>ML/AI models</strong> with real-world datasets to build meaningful, impactful solutions. Previously a <strong>Full Stack Developer</strong>, now fully transitioning into the AI/ML domain.</i></p>
 </div>
 
 ---
 
-<div align="center">
 
-## **About Me**
+## 🚀 Applied Machine Learning & Systems
 
-<p>
-<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/>
-<strong>Background:</strong> Former MERN Stack Developer, now transitioning into the AI/ML domain
-</p>
+> **I build ***Applied Machine Learning Systems*** and interactive data interfaces. My work bridges the gap between raw model weights and end-to-end user evaluation.** 
 
-<p>📘 <strong>Currently Learning:</strong> Deep Learning & related AI technologies</p>
-<p>💬 <strong>Always Curious:</strong> Exploring AI/ML innovations and applied learning</p>
-<p>👀 <strong>Interests:</strong> Data Science, Generative AI, Machine Learning, Intelligent Web Systems</p>
-<p>😄 <strong>Pronouns:</strong> He/Him</p>
+### 🧠 What I Build
 
-</div>
+- **Fraud Intelligence:** Financial threat detection using hybrid models (LightGBM/Random Forest) with real-time heuristic scoring.
+
+- **Predictive Analytics:** Churn evaluation engines optimized for edge environments using lean inference.
+
+- **Explainable AI (XAI):** Sentiment and diagnostic platforms using NLP and computer vision (CNNs).
+
+- **ML Interfaces:** Full-stack deployment of analytical dashboards utilizing Flask and Tailwind CSS.
+
+---
+
+### 🖥 The SynapseDocs Hub
+
+> **I recently launched an interactive, physics-based network graph ("Neural Tree") where I drop my complete ML system architectures, deep dives, and live demonstrations.**
 
 ---
 
@@ -45,19 +50,20 @@
 
 ---
 
-<h2 align="center">📈 Activity:</h2>
+<h2 align="left">📈 Activity:</h2>
 
 ![Nayann23's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true)
 
 ---
 
-<h2 align="center">👩🏻‍💻 Most Used Languages:</h2>
+<h2 align="left">👩🏻‍💻 Most Used Languages:</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight" width="32%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=tokyonight" width="32%"> </br>
   <img src="https://metrics.lecoq.io/Nayann23?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" width="32%">
 </p>
+
 
 ---
 
@@ -67,7 +73,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github&theme=dark)](https://skillicons.dev)
 
-<p align="center">
+<p align="left">
 
 <!-- Data Science -->
 
