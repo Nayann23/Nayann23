@@ -5,36 +5,38 @@
 </h1>
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /></div>
+<img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+### 📍 Based in Pune, Maharashtra, India
+</div>
 
 ---
 
 <div align="left">
 
-### 📍 Based in Pune, Maharashtra, India
+## About Me:
 
 **Applied Data Scientist specialized in blending advanced ML/AI models with real-world datasets to build meaningful, impactful solutions. Transitioning from a ***Full Stack Development*** background to deliver end-to-end intelligent systems.**
 
 </div>
 ---
  
-### 🧠 What I Build
+## 🧠 What I Build
 
-**I build ***Applied Machine Learning Systems*** and interactive data interfaces. My work bridges the gap between raw model weights and end-to-end user evaluation.**
+#### **I build ***Applied Machine Learning Systems*** and interactive data interfaces. My work bridges the gap between raw model weights and end-to-end user evaluation.**
 
-**Fraud & Risk Intelligence: End-to-end financial threat detection using hybrid architectures ***(LightGBM / Random Forest)*** with real-time heuristic scoring and audit logging.**
+#### **Fraud & Risk Intelligence: End-to-end financial threat detection using hybrid architectures ***(LightGBM / Random Forest)*** with real-time heuristic scoring and audit logging.**
 
-**Predictive Analytics: Churn evaluation engines and ***behavioral forecasting optimized*** for edge environments using lean inference pipelines.**
+#### **Predictive Analytics: Churn evaluation engines and ***behavioral forecasting optimized*** for edge environments using lean inference pipelines.**
 
-**Explainable AI (XAI): High-fidelity sentiment and ***diagnostic*** platforms using NLP and Computer Vision (CNNs), with model transparency powered by ***SHAP values*** for feature attribution.***
+#### **Explainable AI (XAI): High-fidelity sentiment and ***diagnostic*** platforms using NLP and Computer Vision (CNNs), with model transparency powered by ***SHAP values*** for feature attribution.***
 
-**ML Interfaces: Full-stack deployment of analytical dashboards that translate complex model outputs into actionable insights using Flask and Tailwind CSS.***
+#### **ML Interfaces: Full-stack deployment of analytical dashboards that translate complex model outputs into actionable insights using Flask and Tailwind CSS.***
 
 ---
 
-### 🖥 The SynapseDocs Hub
+## 🖥 The SynapseDocs Hub
 
-I recently launched **[SynapseDocs](https://github.com/usernamehere)** — a premium documentation interface designed to bridge the gap between complex model code and stakeholder-ready insights. It serves as my primary engineering journal for deploying end-to-end Data Science systems.
+#### I recently launched **[SynapseDocs](https://github.com/usernamehere)** — a premium documentation interface designed to bridge the gap between complex model code and stakeholder-ready insights. It serves as my primary engineering journal for deploying end-to-end Data Science systems.
 
 ---
 
