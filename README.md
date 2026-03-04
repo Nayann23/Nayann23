@@ -131,6 +131,7 @@
 **Applied Data Scientist** specialized in blending advanced ***ML/AI models*** with real-world datasets to build meaningful, impactful solutions. I leverage my **Full Stack Engineering** background to architect end-to-end intelligent systems.
 
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
+
 ## **📫 Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
