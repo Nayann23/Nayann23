@@ -1,58 +1,44 @@
 <h1 align="left">
-  Hi, I'm Nayan Darokar!
+  Hi, I'm Nayann Darokar!
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
+</br>
+  
 </h1>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=username&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
-  &nbsp; 📍 <b>Based in Pune, Maharashtra, India</b>
+
+<img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+
 </div>
-
-<br />
-
-<h1 align="left">
-  Hi, I'm Nayan Darokar!
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi"> 
-</h1>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=username&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
-  &nbsp; 📍 <b>Based in Pune, Maharashtra, India</b>
-</div>
-
-<br />
 
 <div align="left">
 
-## About Me:
-*I am an Applied Data Scientist specialized in blending advanced ML/AI models with real-world datasets to build meaningful, impactful solutions. I leverage my background in Full Stack Development to bridge the gap between complex research and end-to-end intelligent systems.*
+### 🖥 Currently Working In Pune, Maharashtra, India
+
+<img src="./g2dh.gif" alt="System UI">
 
 </div>
-
-<p align="left">_____________________________________________</p>
-
-## 🧠 What I Build
-
-* *I build Applied Machine Learning Systems and interactive data interfaces. My work bridges the gap between raw model weights and end-to-end user evaluation.*
-
-* *Fraud & Risk Intelligence:* End-to-end financial threat detection using hybrid architectures *(LightGBM / Random Forest)* with real-time heuristic scoring and audit logging.
-
-* *Predictive Analytics:* Churn evaluation engines and *behavioral forecasting optimized* for edge environments using lean inference pipelines.
-
-* *Explainable AI (XAI):* High-fidelity sentiment and *diagnostic* platforms using NLP and Computer Vision (CNNs), with model transparency powered by *SHAP values* for feature attribution.
-
-* *ML Interfaces:* Full-stack deployment of analytical dashboards that translate complex model outputs into actionable insights using *Flask and Tailwind CSS.*
-
-<p align="left">_____________________________________________</p>
-
-## 🖥 The SynapseDocs Hub
-
-*I recently launched [SynapseDocs](https://github.com/usernamehere) — a premium documentation interface designed to bridge the gap between complex model code and stakeholder-ready insights. It serves as my primary engineering journal for deploying end-to-end Data Science systems.*
-## 🖥 The SynapseDocs Hub
-
-**I recently launched [SynapseDocs](https://github.com/usernamehere) — a premium documentation interface designed to bridge the gap between complex model code and stakeholder-ready insights. It serves as my primary engineering journal for deploying end-to-end Data Science systems.**
 
 ---
+
+<div align="left">
+
+## **About Me**
+
+<p>
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width="20"/>
+<strong>Background:</strong> Former MERN Stack Developer, now transitioning into the AI/ML domain
+</p>
+
+<p>📘 <strong>Currently Learning:</strong> Deep Learning & related AI technologies</p>
+<p>💬 <strong>Always Curious:</strong> Exploring AI/ML innovations and applied learning</p>
+<p>👀 <strong>Interests:</strong> Data Science, Generative AI, Machine Learning, Intelligent Web Systems</p>
+<p>😄 <strong>Pronouns:</strong> He/Him</p>
+
+</div>
+
+---
+
 ## **📊 GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="35%">
@@ -72,7 +58,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nayann23&theme=tokyonight" width="32%"> </br>
   <img src="https://metrics.lecoq.io/Nayann23?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" width="32%">
 </p>
-
 
 ---
 
@@ -163,9 +148,10 @@
 
 ---
 
-## 🧑‍💻 Focus
+## 🧑‍💻 **Goal**
 
-**Applied Data Scientist** specialized in blending advanced ***ML/AI models*** with real-world datasets to build meaningful, impactful solutions. I leverage my **Full Stack Engineering** background to architect end-to-end intelligent systems.**
+To become a **Data Scientist**, blending advanced **ML/AI models** with real-world datasets to build meaningful, impactful solutions.  
+Previously a **Full Stack Developer**, now fully transitioning into the AI/ML domain.
 
 <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" width="100%" />
 
