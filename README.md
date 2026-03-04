@@ -4,43 +4,37 @@
 </br>
 </h1>
 
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /></div>
+
 ---
 
 <div align="left">
 
-<img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+### 📍 Based in Pune, Maharashtra, India
+
+**Applied Data Scientist specialized in blending advanced ML/AI models with real-world datasets to build meaningful, impactful solutions. Transitioning from a ***Full Stack Development*** background to deliver end-to-end intelligent systems.**
 
 </div>
-
 ---
-
-<div align="left">
-  <h3>🖥 Currently Working In, Pune Maharashtra, India</h3>
-  <p><i>To become a <strong>Data Scientist</strong>, blending advanced <strong>ML/AI models</strong> with real-world datasets to build meaningful, impactful solutions. Previously a <strong>Full Stack Developer</strong>, now fully transitioning into the AI/ML domain.</i></p>
-</div>
-
----
-
-
-## 🚀 Applied Machine Learning & Systems
-
-> **I build ***Applied Machine Learning Systems*** and interactive data interfaces. My work bridges the gap between raw model weights and end-to-end user evaluation.** 
-
+ 
 ### 🧠 What I Build
 
-- **Fraud Intelligence:** Financial threat detection using hybrid models (LightGBM/Random Forest) with real-time heuristic scoring.
+**I build ***Applied Machine Learning Systems*** and interactive data interfaces. My work bridges the gap between raw model weights and end-to-end user evaluation.**
 
-- **Predictive Analytics:** Churn evaluation engines optimized for edge environments using lean inference.
+**Fraud & Risk Intelligence: End-to-end financial threat detection using hybrid architectures ***(LightGBM / Random Forest)*** with real-time heuristic scoring and audit logging.**
 
-- **Explainable AI (XAI):** Sentiment and diagnostic platforms using NLP and computer vision (CNNs).
+**Predictive Analytics: Churn evaluation engines and ***behavioral forecasting optimized*** for edge environments using lean inference pipelines.**
 
-- **ML Interfaces:** Full-stack deployment of analytical dashboards utilizing Flask and Tailwind CSS.
+**Explainable AI (XAI): High-fidelity sentiment and ***diagnostic*** platforms using NLP and Computer Vision (CNNs), with model transparency powered by ***SHAP values*** for feature attribution.***
+
+**ML Interfaces: Full-stack deployment of analytical dashboards that translate complex model outputs into actionable insights using Flask and Tailwind CSS.***
 
 ---
 
 ### 🖥 The SynapseDocs Hub
 
-> **I recently launched an interactive, physics-based network graph ("Neural Tree") where I drop my complete ML system architectures, deep dives, and live demonstrations.**
+I recently launched **[SynapseDocs](https://github.com/usernamehere)** — a premium documentation interface designed to bridge the gap between complex model code and stakeholder-ready insights. It serves as my primary engineering journal for deploying end-to-end Data Science systems.
 
 ---
 
