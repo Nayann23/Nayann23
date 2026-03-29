@@ -26,9 +26,9 @@
 
 ---
 
-## 🖥 The SynapseDocs Hub
+## **🖥️ THE DOCVAULT ENGINE**
 
-**I recently launched [SynapseDocs](https://synapse-docs-ten.vercel.app/) — a premium documentation interface designed to bridge the gap between complex model code and stakeholder-ready insights. It serves as my primary engineering journal for deploying end-to-end Data Science systems.**
+> **I recently engineered [DocVault](https://doc-vault-two.vercel.app/) — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
 
 ---
 
