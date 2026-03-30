@@ -28,7 +28,7 @@
 
 ## **🖥️ THE DOCVAULT ENGINE**
 
-> **I recently engineered [DocVault](https://doc-vault-two.vercel.app/) — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
+**I recently engineered [DocVault](https://doc-vault-two.vercel.app/) — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
 
 ---
 
