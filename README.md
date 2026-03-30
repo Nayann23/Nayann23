@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-*I am an Applied Data Scientist specialized in blending advanced ML/AI models with real-world datasets to build meaningful, impactful solutions. I leverage my background in Full Stack Development to bridge the gap between complex research and end-to-end intelligent systems.*
+***I am an Applied Data Scientist specialized in blending advanced ML/AI models with real-world datasets to build meaningful, impactful solutions. I leverage my background in Full Stack Development to bridge the gap between complex research and end-to-end intelligent systems.***
 
 ---
 
