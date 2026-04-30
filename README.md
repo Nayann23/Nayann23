@@ -65,35 +65,82 @@
 ## 🛠 Tech Stack
 
 ### 🧠 AI / Machine Learning
-Python · TensorFlow · PyTorch · Scikit-learn · OpenCV  
-NumPy · Pandas · Matplotlib · Seaborn · Plotly  
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-111111?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
 
 ### 🧾 NLP & Language Systems
-spaCy · NLTK · LangChain · LLM Workflows  
+![spaCy](https://img.shields.io/badge/spaCy-111111?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-111111?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=ai&logoColor=white)
+
+---
 
 ### ⚙️ ML Frameworks
-Keras · XGBoost · LightGBM · CatBoost  
+![Keras](https://img.shields.io/badge/Keras-111111?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-111111?style=for-the-badge&logo=leaflet&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-111111?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### 🗄 Data & Tools
-PostgreSQL · Jupyter · Google Colab  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-111111?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
 ## 💻 Full Stack Background
 
 ### 🌐 Frontend
-HTML · CSS · JavaScript · React · Next.js  
-TailwindCSS · GSAP · Framer Motion  
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🔧 Backend & DevOps
-Node.js · Express · MongoDB · MySQL  
-Docker · AWS · Vercel · Netlify  
-
-### 🧰 Tools
-VS Code · Cursor · PyCharm · IntelliJ · Postman · Figma  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
+### 🔧 Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=ai&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-111111?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+---
 ## 🧠 Focus
 
 **Applied Data Scientist** building end-to-end ML systems by combining  
