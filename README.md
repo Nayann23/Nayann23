@@ -4,7 +4,7 @@
 </h1>
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
+  <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
   &nbsp; 📍 <strong>Pune, Maharashtra, India</strong>
 </div>
 
