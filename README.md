@@ -27,8 +27,6 @@
 
 ---
 
-## 🖥️ DocVault
-
 ## **🖥️ THE DOCVAULT ENGINE**
 
 **I recently engineered [DocVault](https://doc-vault-two.vercel.app/) — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
@@ -57,8 +55,6 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true" width="100%">
 </p>
-
----
 
 ---
 
