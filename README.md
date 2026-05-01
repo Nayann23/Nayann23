@@ -135,8 +135,6 @@
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
----
 ## 🧠 Focus
 
 **Applied Data Scientist** building end-to-end ML systems by combining  
