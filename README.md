@@ -57,34 +57,40 @@
 </p>
 
 ---
+
 <h2 align="center">🛠 Technical Arsenal</h2>
+<br><br>
 
-### 🧠 AI & Machine Learning
-> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-> <br>
-> `NumPy` `Pandas` `Scikit-Learn` `Matplotlib` `Seaborn` `Plotly`
-> `LangChain` `XGBoost` `LightGBM` `CatBoost`
+<div align="left">
+  <h3>🧠 AI & Machine Learning</h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <p><code>NumPy</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code> <code>LangChain</code> <code>XGBoost</code> <code>LightGBM</code> <code>CatBoost</code></p>
+</div>
 
-<br>
+<br><br>
 
-### 🌐 Frontend Engineering
-> <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
-> <br>
-> `HTML5` `CSS3` `GSAP` `Framer Motion` `Figma`
+<div align="right">
+  <h3>🌐 Frontend Engineering</h3>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
+  <p><code>HTML5</code> <code>CSS3</code> <code>GSAP</code> <code>Framer Motion</code> <code>Figma</code></p>
+</div>
 
-<br>
+<br><br>
 
-### ⚙️ Backend & Databases
-> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
-> <br>
-> `REST APIs` `LLMs` `spaCy` `NLTK`
+<div align="left">
+  <h3>⚙️ Backend & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+  <p><code>REST APIs</code> <code>LLMs</code> <code>spaCy</code> <code>NLTK</code></p>
+</div>
 
-<br>
+<br><br>
 
-### ☁️ DevOps & Tooling
-> <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,vscode,postman" />
-> <br>
-> `Jupyter` `Colab` `Cursor` `PyCharm` `IntelliJ`
+<div align="right">
+  <h3>☁️ DevOps & Tooling</h3>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,vscode,postman" />
+  <p><code>Jupyter</code> <code>Colab</code> <code>Cursor</code> <code>PyCharm</code> <code>IntelliJ</code></p>
+</div>
+
 ---
 ## 🧠 Focus
 
