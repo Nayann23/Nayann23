@@ -57,50 +57,56 @@
 </p>
 
 ---
-<h2 align="center">🛠 Technical Arsenal</h2>
 
+<h2 align="center">🛠 Technical Arsenal</h2>
 <br>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="45%">
+      <br>
       <h3>🧠 AI & Machine Learning</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
       <br><br>
-      <b>Libraries & Frameworks:</b><br>
       <code>NumPy</code> <code>Pandas</code> <code>Scikit-Learn</code><br>
       <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code><br>
       <code>LangChain</code> <code>XGBoost</code> <code>LightGBM</code> <code>CatBoost</code>
+      <br><br>
     </td>
-    <td align="center" width="50%">
+    <td width="10%"></td> <td align="center" width="45%">
+      <br>
       <h3>🌐 Frontend Engineering</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
       <br><br>
-      <b>UI & Animation:</b><br>
-      <code>HTML5</code> <code>CSS3</code><br>
-      <code>GSAP</code> <code>Framer Motion</code><br>
-      <code>Figma</code>
+      <code>HTML5</code> <code>CSS3</code> <code>GSAP</code><br>
+      <code>Framer Motion</code> <code>Figma</code>
+      <br><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td colspan="3"><br><br></td> </tr>
+  <tr>
+    <td align="center" width="45%">
+      <br>
       <h3>⚙️ Backend & Databases</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
       <br><br>
-      <b>Data Systems:</b><br>
-      <code>REST APIs</code> <code>LLMs</code> <code>spaCy</code> <code>NLTK</code>
+      <code>REST APIs</code> <code>LLMs</code><br>
+      <code>spaCy</code> <code>NLTK</code>
+      <br><br>
     </td>
-    <td align="center" width="50%">
+    <td width="10%"></td> <td align="center" width="45%">
+      <br>
       <h3>☁️ DevOps & Tooling</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,vscode,postman" />
       <br><br>
-      <b>Environments:</b><br>
       <code>Jupyter</code> <code>Colab</code> <code>Cursor</code><br>
       <code>PyCharm</code> <code>IntelliJ</code>
+      <br><br>
     </td>
   </tr>
 </table>
