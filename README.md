@@ -56,6 +56,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true" width="100%">
 </p>
 
+
+### 🏆 GitHub Milestones
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayann23&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+
+### ⏱️ Weekly Coding Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayann23&theme=tokyonight&hide_border=true" width="100%">
+</p>
+
 ---
 
 <h2 align="left">🛠 Tech Stack</h2>
