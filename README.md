@@ -58,48 +58,21 @@
 
 ---
 
-<h2 align="center">⚙️ Core Architecture & Stack</h2>
-<br>
-
-### 🧠 01. Intelligence & Data Processing
-*Powering the core logic, machine learning models, and data pipelines.*
+<h2 align="left">🛠 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,netlify,vscode,pycharm,idea,postman,figma&perline=12" />
 </p>
-
-- **Core Engine:** Python, TensorFlow, PyTorch
-- **Data & Vision:** OpenCV, NumPy, Pandas, Matplotlib, Plotly
-- **NLP Systems:** LangChain, spaCy, NLTK, LLMs
-- **ML Frameworks:** Scikit-Learn, XGBoost, LightGBM, CatBoost
 
 <br>
 
-### 🌐 02. Interface & User Experience
-*Building the narrative-driven, unconventional frontend systems.*
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **AI / ML & NLP** | Python, TensorFlow, PyTorch, Scikit-Learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Plotly, LangChain, LLMs, spaCy, NLTK, Keras, XGBoost, LightGBM, CatBoost |
+| **Frontend** | JavaScript, React, Next.js, HTML5, CSS3, TailwindCSS, GSAP, Framer Motion |
+| **Backend & Databases** | Node.js, Express, MongoDB, PostgreSQL, MySQL |
+| **DevOps & Tooling** | Docker, AWS, Vercel, Netlify, Jupyter, Colab, VS Code, Cursor, PyCharm, IntelliJ, Postman, Figma |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
-</p>
-
-- **Frameworks:** React, Next.js, JavaScript (ES6+)
-- **Styling & Motion:** TailwindCSS, GSAP, Framer Motion
-- **Design:** Figma, HTML5, CSS3
-
-<br>
-
-### 🗄️ 03. Backend & Infrastructure
-*The hidden foundation, routing, and deployment environments.*
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,docker" />
-</p>
-
-- **Server & API:** Node.js, Express, REST APIs
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **DevOps:** Docker, AWS, Vercel, Netlify
-- **Environment:** Cursor, VS Code, Jupyter, Postman
-- 
 ---
 ## 🧠 Focus
 
