@@ -58,39 +58,48 @@
 
 ---
 
-<h2 align="center">🛠 Technical Arsenal</h2>
-<br><br>
+<h2 align="center">⚙️ Core Architecture & Stack</h2>
+<br>
 
-<div align="left">
-  <h3>🧠 AI & Machine Learning</h3>
+### 🧠 01. Intelligence & Data Processing
+*Powering the core logic, machine learning models, and data pipelines.*
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-  <p><code>NumPy</code> <code>Pandas</code> <code>Scikit-Learn</code> <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code> <code>LangChain</code> <code>XGBoost</code> <code>LightGBM</code> <code>CatBoost</code></p>
-</div>
+</p>
 
-<br><br>
+- **Core Engine:** Python, TensorFlow, PyTorch
+- **Data & Vision:** OpenCV, NumPy, Pandas, Matplotlib, Plotly
+- **NLP Systems:** LangChain, spaCy, NLTK, LLMs
+- **ML Frameworks:** Scikit-Learn, XGBoost, LightGBM, CatBoost
 
-<div align="right">
-  <h3>🌐 Frontend Engineering</h3>
+<br>
+
+### 🌐 02. Interface & User Experience
+*Building the narrative-driven, unconventional frontend systems.*
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
-  <p><code>HTML5</code> <code>CSS3</code> <code>GSAP</code> <code>Framer Motion</code> <code>Figma</code></p>
-</div>
+</p>
 
-<br><br>
+- **Frameworks:** React, Next.js, JavaScript (ES6+)
+- **Styling & Motion:** TailwindCSS, GSAP, Framer Motion
+- **Design:** Figma, HTML5, CSS3
 
-<div align="left">
-  <h3>⚙️ Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
-  <p><code>REST APIs</code> <code>LLMs</code> <code>spaCy</code> <code>NLTK</code></p>
-</div>
+<br>
 
-<br><br>
+### 🗄️ 03. Backend & Infrastructure
+*The hidden foundation, routing, and deployment environments.*
 
-<div align="right">
-  <h3>☁️ DevOps & Tooling</h3>
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,vscode,postman" />
-  <p><code>Jupyter</code> <code>Colab</code> <code>Cursor</code> <code>PyCharm</code> <code>IntelliJ</code></p>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,docker" />
+</p>
 
+- **Server & API:** Node.js, Express, REST APIs
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** Docker, AWS, Vercel, Netlify
+- **Environment:** Cursor, VS Code, Jupyter, Postman
+- 
 ---
 ## 🧠 Focus
 
