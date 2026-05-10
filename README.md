@@ -57,60 +57,34 @@
 </p>
 
 ---
-
 <h2 align="center">🛠 Technical Arsenal</h2>
+
+### 🧠 AI & Machine Learning
+> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+> <br>
+> `NumPy` `Pandas` `Scikit-Learn` `Matplotlib` `Seaborn` `Plotly`
+> `LangChain` `XGBoost` `LightGBM` `CatBoost`
+
 <br>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="45%">
-      <br>
-      <h3>🧠 AI & Machine Learning</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-      <br><br>
-      <code>NumPy</code> <code>Pandas</code> <code>Scikit-Learn</code><br>
-      <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code><br>
-      <code>LangChain</code> <code>XGBoost</code> <code>LightGBM</code> <code>CatBoost</code>
-      <br><br>
-    </td>
-    <td width="10%"></td> <td align="center" width="45%">
-      <br>
-      <h3>🌐 Frontend Engineering</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
-      <br><br>
-      <code>HTML5</code> <code>CSS3</code> <code>GSAP</code><br>
-      <code>Framer Motion</code> <code>Figma</code>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3"><br><br></td> </tr>
-  <tr>
-    <td align="center" width="45%">
-      <br>
-      <h3>⚙️ Backend & Databases</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
-      <br><br>
-      <code>REST APIs</code> <code>LLMs</code><br>
-      <code>spaCy</code> <code>NLTK</code>
-      <br><br>
-    </td>
-    <td width="10%"></td> <td align="center" width="45%">
-      <br>
-      <h3>☁️ DevOps & Tooling</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,vscode,postman" />
-      <br><br>
-      <code>Jupyter</code> <code>Colab</code> <code>Cursor</code><br>
-      <code>PyCharm</code> <code>IntelliJ</code>
-      <br><br>
-    </td>
-  </tr>
-</table>
+### 🌐 Frontend Engineering
+> <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
+> <br>
+> `HTML5` `CSS3` `GSAP` `Framer Motion` `Figma`
 
+<br>
+
+### ⚙️ Backend & Databases
+> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+> <br>
+> `REST APIs` `LLMs` `spaCy` `NLTK`
+
+<br>
+
+### ☁️ DevOps & Tooling
+> <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,vscode,postman" />
+> <br>
+> `Jupyter` `Colab` `Cursor` `PyCharm` `IntelliJ`
 ---
 ## 🧠 Focus
 
