@@ -43,17 +43,31 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="48%">
-</p>
-
-### 📈 Activity:
+## 📈 Activity Graph:
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true" width="100%">
 </p>
+
+---
+
+<h2 align="left">🛠 Tech Stack</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,netlify,vscode,pycharm,idea,postman,figma&perline=12" />
+</p>
+
+<br>
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **AI / ML & NLP** | Python, TensorFlow, PyTorch, Scikit-Learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Plotly, LangChain, LLMs, spaCy, NLTK, Keras, XGBoost, LightGBM, CatBoost |
+| **Frontend** | JavaScript, React, Next.js, HTML5, CSS3, TailwindCSS, GSAP, Framer Motion |
+| **Backend & Databases** | Node.js, Express, MongoDB, PostgreSQL, MySQL |
+| **DevOps & Tooling** | Docker, AWS, Vercel, Netlify, Jupyter, Colab, VS Code, Cursor, PyCharm, IntelliJ, Postman, Figma |
+
+---
 
 
 ### 🏆 GitHub Milestones
@@ -74,27 +88,12 @@
 ### 🌙 Productivity Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayann23&repo=Your-Best-Repo-Name&theme=tokyonight&hide_border=true" width="48%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nayann23&theme=tokyonight" width="48%">
 </p>
----
 
-<h2 align="left">🛠 Tech Stack</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,netlify,vscode,pycharm,idea,postman,figma&perline=12" />
-</p>
-
-<br>
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **AI / ML & NLP** | Python, TensorFlow, PyTorch, Scikit-Learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Plotly, LangChain, LLMs, spaCy, NLTK, Keras, XGBoost, LightGBM, CatBoost |
-| **Frontend** | JavaScript, React, Next.js, HTML5, CSS3, TailwindCSS, GSAP, Framer Motion |
-| **Backend & Databases** | Node.js, Express, MongoDB, PostgreSQL, MySQL |
-| **DevOps & Tooling** | Docker, AWS, Vercel, Netlify, Jupyter, Colab, VS Code, Cursor, PyCharm, IntelliJ, Postman, Figma |
 
 ---
+
 ## 🧠 Focus
 
 
