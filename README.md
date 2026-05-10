@@ -18,7 +18,13 @@
 
 ## 🧠 What I Build
 
-**Applied ML Systems: Transforming raw models into full systems with interfaces, pipelines, and observability.** **Risk & Security Intelligence: Fraud detection and content integrity systems (LightGBM / Naive Bayes / Hybrid pipelines) with audit logging.** **Predictive Analytics: Churn and behavioral forecasting systems optimized for stable, low-latency inference.** **Explainable AI (XAI): Sentiment and diagnostic systems with transparent outputs (SHAP-style / keyword attribution).** **ML Interfaces: Full-stack analytical dashboards using Flask, TailwindCSS, and structured UX flows.**
+- **Applied ML Systems: Transforming raw models into full systems with interfaces, pipelines, and observability.** 
+
+- **Risk & Security Intelligence: Fraud detection and content integrity systems (LightGBM / Naive Bayes / Hybrid pipelines) with audit logging.** **Predictive Analytics: Churn and behavioral forecasting systems optimized for stable, low-latency inference.** 
+
+- **Explainable AI (XAI): Sentiment and diagnostic systems with transparent outputs (SHAP-style / keyword attribution).** 
+
+- **ML Interfaces: Full-stack analytical dashboards using Flask, TailwindCSS, and structured UX flows.**
 
 
 ---
@@ -64,16 +70,8 @@
 ### 🏆 GitHub Milestones
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayann23&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" width="48%">
-</p>
-
-<br>
-
-### 🎖️ GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nayann23&theme=tokyonight&no-bg=true&margin-w=15&column=4&hide=PR,Reviews" width="80%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayann23&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nayann23&theme=tokyonight" width="48%">
 </p>
 
 # **CONNECT WITH ME HERE:**
