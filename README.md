@@ -47,7 +47,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayann23&layout=compact&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nayann23&theme=tokyonight" width="48%">
 </p>
 
 ### 📈 Activity:
@@ -60,17 +59,24 @@
 ### 🏆 GitHub Milestones
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayann23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayann23&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 
-### ⏱️ Weekly Coding Activity
+### 🏆 GitHub Achievements
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nayann23&theme=tokyonight&hide_border=true" width="100%">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nayann23&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%">
 </p>
 
+
+### 🌙 Productivity Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nayann23&repo=Your-Best-Repo-Name&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nayann23&theme=tokyonight" width="48%">
+</p>
 ---
 
 <h2 align="left">🛠 Tech Stack</h2>
