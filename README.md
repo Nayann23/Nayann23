@@ -73,24 +73,20 @@
 ### 🏆 GitHub Milestones
 
 <p align="center">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayann23&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nayann23&theme=tokyonight" width="48%">
+</p>
+
+---
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nayann23&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%">
 </p>
-
-
-### 🌙 Productivity Pulse
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nayann23&theme=tokyonight" width="48%">
-</p>
-
 
 ---
 
