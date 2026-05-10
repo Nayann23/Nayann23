@@ -57,79 +57,53 @@
 </p>
 
 ---
+<h2 align="center">🛠 Technical Arsenal</h2>
 
-## 🛠 Tech Stack
+<br>
 
-### 🧠 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-FFBCA5?style=for-the-badge&logo=python&logoColor=0A0A0A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFBCA5?style=for-the-badge&logo=tensorflow&logoColor=0A0A0A)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFBCA5?style=for-the-badge&logo=pytorch&logoColor=0A0A0A)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-FFBCA5?style=for-the-badge&logo=scikitlearn&logoColor=0A0A0A)
-![OpenCV](https://img.shields.io/badge/OpenCV-FFBCA5?style=for-the-badge&logo=opencv&logoColor=0A0A0A)
-![NumPy](https://img.shields.io/badge/NumPy-FFBCA5?style=for-the-badge&logo=numpy&logoColor=0A0A0A)
-![Pandas](https://img.shields.io/badge/Pandas-FFBCA5?style=for-the-badge&logo=pandas&logoColor=0A0A0A)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFBCA5?style=for-the-badge&logo=python&logoColor=0A0A0A)
-![Seaborn](https://img.shields.io/badge/Seaborn-FFBCA5?style=for-the-badge&logo=python&logoColor=0A0A0A)
-![Plotly](https://img.shields.io/badge/Plotly-FFBCA5?style=for-the-badge&logo=plotly&logoColor=0A0A0A)
-
----
-
-### 🧾 NLP & Language Systems
-![spaCy](https://img.shields.io/badge/spaCy-FFBCA5?style=for-the-badge&logo=spacy&logoColor=0A0A0A)
-![NLTK](https://img.shields.io/badge/NLTK-FFBCA5?style=for-the-badge&logo=python&logoColor=0A0A0A)
-![LangChain](https://img.shields.io/badge/LangChain-FFBCA5?style=for-the-badge&logo=chainlink&logoColor=0A0A0A)
-![LLMs](https://img.shields.io/badge/LLMs-FFBCA5?style=for-the-badge&logo=ai&logoColor=0A0A0A)
-
----
-
-### ⚙️ ML Frameworks
-![Keras](https://img.shields.io/badge/Keras-FFBCA5?style=for-the-badge&logo=keras&logoColor=0A0A0A)
-![XGBoost](https://img.shields.io/badge/XGBoost-FFBCA5?style=for-the-badge&logo=xgboost&logoColor=0A0A0A)
-![LightGBM](https://img.shields.io/badge/LightGBM-FFBCA5?style=for-the-badge&logo=leaflet&logoColor=0A0A0A)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFBCA5?style=for-the-badge&logo=python&logoColor=0A0A0A)
-
----
-
-### 🗄 Data & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFBCA5?style=for-the-badge&logo=postgresql&logoColor=0A0A0A)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFBCA5?style=for-the-badge&logo=jupyter&logoColor=0A0A0A)
-![Colab](https://img.shields.io/badge/Colab-FFBCA5?style=for-the-badge&logo=googlecolab&logoColor=0A0A0A)
-
----
-
-## 💻 Full Stack Background
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-FFBCA5?style=for-the-badge&logo=html5&logoColor=0A0A0A)
-![CSS](https://img.shields.io/badge/CSS-FFBCA5?style=for-the-badge&logo=css3&logoColor=0A0A0A)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFBCA5?style=for-the-badge&logo=javascript&logoColor=0A0A0A)
-![React](https://img.shields.io/badge/React-FFBCA5?style=for-the-badge&logo=react&logoColor=0A0A0A)
-![Next.js](https://img.shields.io/badge/Next.js-FFBCA5?style=for-the-badge&logo=nextdotjs&logoColor=0A0A0A)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FFBCA5?style=for-the-badge&logo=tailwindcss&logoColor=0A0A0A)
-![GSAP](https://img.shields.io/badge/GSAP-FFBCA5?style=for-the-badge&logo=greensock&logoColor=0A0A0A)
-![Framer Motion](https://img.shields.io/badge/Framer-FFBCA5?style=for-the-badge&logo=framer&logoColor=0A0A0A)
-
----
-
-### 🔧 Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-FFBCA5?style=for-the-badge&logo=node.js&logoColor=0A0A0A)
-![Express](https://img.shields.io/badge/Express-FFBCA5?style=for-the-badge&logo=express&logoColor=0A0A0A)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFBCA5?style=for-the-badge&logo=mongodb&logoColor=0A0A0A)
-![MySQL](https://img.shields.io/badge/MySQL-FFBCA5?style=for-the-badge&logo=mysql&logoColor=0A0A0A)
-![Docker](https://img.shields.io/badge/Docker-FFBCA5?style=for-the-badge&logo=docker&logoColor=0A0A0A)
-![AWS](https://img.shields.io/badge/AWS-FFBCA5?style=for-the-badge&logo=amazonaws&logoColor=0A0A0A)
-![Vercel](https://img.shields.io/badge/Vercel-FFBCA5?style=for-the-badge&logo=vercel&logoColor=0A0A0A)
-![Netlify](https://img.shields.io/badge/Netlify-FFBCA5?style=for-the-badge&logo=netlify&logoColor=0A0A0A)
-
----
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS_Code-FFBCA5?style=for-the-badge&logo=visualstudiocode&logoColor=0A0A0A)
-![Cursor](https://img.shields.io/badge/Cursor-FFBCA5?style=for-the-badge&logo=ai&logoColor=0A0A0A)
-![PyCharm](https://img.shields.io/badge/PyCharm-FFBCA5?style=for-the-badge&logo=pycharm&logoColor=0A0A0A)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-FFBCA5?style=for-the-badge&logo=intellijidea&logoColor=0A0A0A)
-![Postman](https://img.shields.io/badge/Postman-FFBCA5?style=for-the-badge&logo=postman&logoColor=0A0A0A)
-![Figma](https://img.shields.io/badge/Figma-FFBCA5?style=for-the-badge&logo=figma&logoColor=0A0A0A)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 AI & Machine Learning</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+      <br><br>
+      <b>Libraries & Frameworks:</b><br>
+      <code>NumPy</code> <code>Pandas</code> <code>Scikit-Learn</code><br>
+      <code>Matplotlib</code> <code>Seaborn</code> <code>Plotly</code><br>
+      <code>LangChain</code> <code>XGBoost</code> <code>LightGBM</code> <code>CatBoost</code>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Frontend Engineering</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind" />
+      <br><br>
+      <b>UI & Animation:</b><br>
+      <code>HTML5</code> <code>CSS3</code><br>
+      <code>GSAP</code> <code>Framer Motion</code><br>
+      <code>Figma</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend & Databases</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+      <br><br>
+      <b>Data Systems:</b><br>
+      <code>REST APIs</code> <code>LLMs</code> <code>spaCy</code> <code>NLTK</code>
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ DevOps & Tooling</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,vscode,postman" />
+      <br><br>
+      <b>Environments:</b><br>
+      <code>Jupyter</code> <code>Colab</code> <code>Cursor</code><br>
+      <code>PyCharm</code> <code>IntelliJ</code>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🧠 Focus
