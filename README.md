@@ -35,7 +35,9 @@
 
 **I recently engineered [DocVault](https://doc-vault-two.vercel.app/) — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
 
-- **16 production-style ML systems** - **Consistent input → processing → output architecture** - **Built with observability, explainability, and system constraints in mind** ---
+- **18 production-style ML systems** - **Consistent input → processing → output architecture** - **Built with observability, explainability, and system constraints in mind**
+
+---
 
 ## ⚡ Highlight
 
