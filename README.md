@@ -12,7 +12,7 @@
 
 ## **👨‍💻 About Me**
 
-> **I am an Applied Data Scientist focused on building high-fidelity Machine Learning systems that combine data science, software engineering, and interactive user experiences.**
+> **`I am an Applied Data Scientist focused on building high-fidelity Machine Learning systems that combine data science, software engineering, and interactive user experiences.`**
 
 > **My work extends beyond model development into the design of complete systems, including data pipelines, configuration-driven architectures, automation, analytics, observability, and user-facing applications.**
 
@@ -24,15 +24,15 @@
 
 ## 🧠 What I Build
 
-- **Applied ML Systems: Transforming raw models into full systems with interfaces, pipelines, and observability.** 
+> **Applied ML Systems: Transforming raw models into full systems with interfaces, pipelines, and observability.** 
 
-- **Risk & Security Intelligence: Fraud detection and content integrity systems (LightGBM / Naive Bayes / Hybrid pipelines) with audit logging.**
+> **Risk & Security Intelligence: Fraud detection and content integrity systems (LightGBM / Naive Bayes / Hybrid pipelines) with audit logging.**
 
-- **Predictive Analytics: Churn and behavioral forecasting systems optimized for stable, low-latency inference.** 
+> **Predictive Analytics: Churn and behavioral forecasting systems optimized for stable, low-latency inference.** 
 
-- **Explainable AI (XAI): Sentiment and diagnostic systems with transparent outputs (SHAP-style / keyword attribution).** 
+> **Explainable AI (XAI): Sentiment and diagnostic systems with transparent outputs (SHAP-style / keyword attribution).** 
 
-- **ML Interfaces: Full-stack analytical dashboards using Flask, TailwindCSS, and structured UX flows.**
+> **ML Interfaces: Full-stack analytical dashboards using Flask, TailwindCSS, and structured UX flows.**
 
 
 ---
