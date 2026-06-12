@@ -10,9 +10,15 @@
 
 <br />
 
-## 👨‍💻 About Me
+## **👨‍💻 About Me**
 
-**I am an Applied Data Scientist focused on building end-to-end ML systems — from model logic to user-facing interfaces. I combine Machine Learning with Full Stack Development to create structured, interactive, and production-style intelligence systems.**
+> **I am an Applied Data Scientist focused on building high-fidelity Machine Learning systems that combine data science, software engineering, and interactive user experiences.**
+
+> **My work extends beyond model development into the design of complete systems, including data pipelines, configuration-driven architectures, automation, analytics, observability, and user-facing applications.**
+
+> **I enjoy building systems that explore how data flows through a system, how decisions are made, how users interact with machine learning capabilities, and how complex workflows can remain structured and maintainable as they grow.**
+
+> **My primary interests include intelligent systems, MLOps, system architecture, data engineering, and Full Stack Development, with a focus on building realistic end-to-end workflows.**
 
 ---
 
