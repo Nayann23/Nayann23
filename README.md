@@ -3,12 +3,10 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi">
 </h1>
 
+<p align="left">
+  📍 <strong>Pune, Maharashtra, India</strong>
+</p>
 
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
-  &nbsp; 📍 <strong>Pune, Maharashtra, India</strong>
-</div>
 
 <br />
 
