@@ -3,9 +3,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi">
 </h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=58A6FF&width=700&lines=Applied+Data+Scientist;Building+End-to-End+ML+Systems;RAG+and+Knowledge+Retrieval+Applications;Security+and+Risk+Intelligence+Systems;Turning+Models+into+Usable+Products" alt="Typing SVG" />
-</p>
+
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
@@ -92,3 +90,15 @@
 # **CONNECT WITH ME HERE:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
+
+---
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=58A6FF&width=700&lines=Applied+Data+Scientist;Building+End-to-End+ML+Systems;RAG+and+Knowledge+Retrieval+Applications;Security+and+Risk+Intelligence+Systems;Turning+Models+into+Usable+Products" alt="Typing SVG" />
+</p>
+
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
+</div>
+
