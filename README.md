@@ -24,16 +24,15 @@
 
 ## 🧠 What I Build
 
-> **Applied ML Systems: Transforming raw models into full systems with interfaces, pipelines, and observability.** 
+> **Applied ML Systems: Prediction, classification, forecasting, and decision-support systems built around complete workflows rather than standalone models.**
 
-> **Risk & Security Intelligence: Fraud detection and content integrity systems (LightGBM / Naive Bayes / Hybrid pipelines) with audit logging.**
+> **Knowledge & Retrieval Systems: RAG applications, document intelligence platforms, semantic search pipelines, and context-aware AI assistants.**
 
-> **Predictive Analytics: Churn and behavioral forecasting systems optimized for stable, low-latency inference.** 
+> **Security & Risk Intelligence: Fraud detection, cybersecurity analytics, anomaly detection, and explainable risk assessment workflows.**
 
-> **Explainable AI (XAI): Sentiment and diagnostic systems with transparent outputs (SHAP-style / keyword attribution).** 
+> **Data Platforms & Automation: Data pipelines, configuration-driven architectures, CI/CD workflows, monitoring, and operational tooling.**
 
-> **ML Interfaces: Full-stack analytical dashboards using Flask, TailwindCSS, and structured UX flows.**
-
+> **AI-Powered User Experiences: Interactive dashboards, analytical interfaces, conversational AI systems, and human-centered ML applications.**
 
 ---
 
