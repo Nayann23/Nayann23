@@ -4,9 +4,8 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&width=700&lines=Applied+Data+Scientist;Building+End-to-End+ML+Systems;RAG+and+Knowledge+Retrieval+Applications;Security+and+Risk+Intelligence+Systems;Turning+Models+into+Usable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=58A6FF&width=700&lines=Applied+Data+Scientist;Building+End-to-End+ML+Systems;RAG+and+Knowledge+Retrieval+Applications;Security+and+Risk+Intelligence+Systems;Turning+Models+into+Usable+Products" alt="Typing SVG" />
 </p>
-
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
