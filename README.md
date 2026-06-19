@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-  📍 <strong>Pune, Maharashtra, India</strong>
+  📍 Based in Pune, Maharashtra, India
 </p>
 
 
