@@ -12,27 +12,27 @@
 
 ## 👨‍💻 About Me
 
-> ### **I am an Applied Data Scientist focused on building high-fidelity Machine Learning systems that combine Data Science, Software Engineering, and Interactive User Experiences.**
+> **I am an Applied Data Scientist focused on building high-fidelity Machine Learning systems that combine Data Science, Software Engineering, and Interactive User Experiences.**
 
-> ### **Building a model is often the easy part. Building systems that make predictions understandable, explainable, actionable, and trustworthy is where most of my time goes.**
+> **Building a model is often the easy part. Building systems that make predictions understandable, explainable, actionable, and trustworthy is where most of my time goes.**
 
-> ### **My work extends beyond model development into Data Pipelines, Retrieval Workflows, Automation, Observability, and User-Facing Applications that transform Machine Learning into usable products.**
+> **My work extends beyond model development into Data Pipelines, Retrieval Workflows, Automation, Observability, and User-Facing Applications that transform Machine Learning into usable products.**
 
-> ### **My primary interests include Intelligent Systems, Retrieval-Augmented Architectures, MLOps, Data Engineering, System Design, and Human-Centered AI Applications.**
+> **My primary interests include Intelligent Systems, Retrieval-Augmented Architectures, MLOps, Data Engineering, System Design, and Human-Centered AI Applications.**
 
 ---
 
 ## 🧠 What I Build
 
-> ### **Applied ML Systems: Prediction, Classification, Forecasting, and Decision-Support Systems built around complete workflows rather than standalone models.**
+> **Applied ML Systems: Prediction, Classification, Forecasting, and Decision-Support Systems built around complete workflows rather than standalone models.**
 
-> ### **Knowledge & Retrieval Systems: RAG Applications, Document Intelligence Platforms, Semantic Search Pipelines, and Context-Aware AI Assistants.**
+> **Knowledge & Retrieval Systems: RAG Applications, Document Intelligence Platforms, Semantic Search Pipelines, and Context-Aware AI Assistants.**
 
-> ### **Security & Risk Intelligence: Fraud Detection, Cybersecurity Analytics, Anomaly Detection, and Explainable Risk Assessment Workflows.**
+> **Security & Risk Intelligence: Fraud Detection, Cybersecurity Analytics, Anomaly Detection, and Explainable Risk Assessment Workflows.**
 
-> ### **Data Platforms & Automation: Data Pipelines, Configuration-Driven Architectures, CI/CD Workflows, Monitoring, and Operational Tooling.**
+> **Data Platforms & Automation: Data Pipelines, Configuration-Driven Architectures, CI/CD Workflows, Monitoring, and Operational Tooling.**
 
-> ### **AI-Powered User Experiences: Interactive Dashboards, Analytical Interfaces, Conversational AI Systems, and Human-Centered ML Applications.**
+> **AI-Powered User Experiences: Interactive Dashboards, Analytical Interfaces, Conversational AI Systems, and Human-Centered ML Applications.**
 
 ---
 
