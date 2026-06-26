@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-**I am an Applied Data Scientist focused on building high-fidelity Machine Learning systems that combine Data Science, Software Engineering, and Interactive User Experiences.**
+### **I am an Applied Data Scientist focused on building high-fidelity Machine Learning systems that combine Data Science, Software Engineering, and Interactive User Experiences.**
 
 **Building a model is often the easy part. Building systems that make predictions understandable, explainable, actionable, and trustworthy is where most of my time goes.**
 
