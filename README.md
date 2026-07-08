@@ -36,6 +36,17 @@
 
 ---
 
+## 🧩 Decode Commits
+
+> GitHub records **what** happened.
+> Decode Commits explains **why** it happened.
+>
+> An interactive engineering retrospective behind my contribution history.
+
+**🔗 [Explore Decode Commits](https://decode-commit.vercel.app/)**
+
+---
+
 ## **🖥️ THE DOCVAULT ENGINE**
 
 **I recently engineered DocVault — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
