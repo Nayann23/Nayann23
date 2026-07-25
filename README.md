@@ -103,9 +103,8 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=58A6FF&width=700&lines=Applied+Data+Scientist;Building+End-to-End+ML+Systems;RAG+and+Knowledge+Retrieval+Applications;Security+and+Risk+Intelligence+Systems;Turning+Models+into+Usable+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=20&pause=1200&color=FFFFFF&width=700&lines=APPLIED+DATA+SCIENTIST;BUILDING+END-TO-END+ML+SYSTEMS;RAG+AND+KNOWLEDGE+RETRIEVAL+APPLICATIONS;SECURITY+AND+RISK+INTELLIGENCE+SYSTEMS;TURNING+MODELS+INTO+USABLE+PRODUCTS" alt="Typing SVG" />
 </p>
-
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
