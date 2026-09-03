@@ -55,6 +55,18 @@
 
 ---
 
+### 🔒 **PRIVATE BY DESIGN**
+
+> **A significant portion of my work lives in private repositories to protect the Intellectual Property, System Design, and Implementation Details behind these systems.**
+>
+> **The public repositories represent only a very small part of what I build, with most of them reflecting earlier stages of my work. My more recent and deeper Systems, Architectures, and Engineering Work are intentionally kept private.**
+>
+> **If you're a Recruiter, Founder, or Hiring Team genuinely interested in evaluating the depth of my work, you can request access for a Technical Review.**
+>
+> **📩 Send me an email with a brief note about what you'd like to evaluate, and I'll provide a Temporary Access Code to the relevant private systems.**
+
+---
+
 ## ⚡ Highlight
 
 > **I don’t just train models — I design how they behave as systems.**
