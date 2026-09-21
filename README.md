@@ -35,7 +35,7 @@
 
 ## 🧠 What I Build
 
-> **Applied ML Systems: Prediction, Classification, Forecasting, and Decision-Support Systems built around complete workflows rather than standalone models.**
+> **Applied ML Systems: Prediction, Classification, Forecasting, and Decision-Support Systems built around complete end to end workflows rather than standalone models.**
 
 > **Knowledge & Retrieval Systems: RAG Applications, Document Intelligence Platforms, Semantic Search Pipelines, and Context-Aware AI Assistants.**
 
