@@ -23,13 +23,13 @@
 
 ### 🔒 **PRIVATE BY DESIGN**
 
-> **A significant portion of my production work lives in private repositories to protect System Design, Custom Architectures, and Implementation Details behind these platforms.**
+> **Across 130+ repositories, my most advanced work from the last 1.5+ years—spanning 35+ end-to-end AI/ML systems and agentic workflows—is kept private by choice to protect custom architectures and implementation details.**
 >
-> **The public repositories represent foundational milestones and earlier experiments. My latest and most complex multi-agent frameworks, end-to-end architectures, and engineering workflows are intentionally maintained in private repositories.**
+> **The ~47 public repositories primarily reflect foundational milestones and earlier learning phases. While select systems remain actively deployed, several complete production-grade architectures are hosted on-demand or documented via private walkthroughs due to compute and infrastructure costs.**
 >
-> **If you're a Recruiter, Founder, or Hiring Team genuinely interested in evaluating the architectural depth, codebase quality, or system design of my recent work, you can request access for a Technical Review.**
+> **If you are a Recruiter, Founder, or Hiring Team interested in evaluating codebase structure, system design, or architectural depth across these recent builds, you can request access for a Technical Review.**
 >
-> **📩 Send me an email with a brief note regarding what you'd like to evaluate, and I'll grant temporary repository access or provide an architectural walkthrough.**
+> **📩 Reach out via email with a brief note on what you would like to evaluate, and I will share temporary repository access, system demos, or an architectural walkthrough.**
 
 ---
 
