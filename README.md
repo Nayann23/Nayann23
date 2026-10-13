@@ -73,6 +73,20 @@
 
 ---
 
+### 🖥️ FEATURED RUNTIME // STARK OS
+
+> **Autonomous Multi-Agent Desktop Operating System & Real-Time Telemetry HUD**
+
+An architectural demonstration of dual-agent cognitive switching (`JARVIS` & `FRIDAY`), hardware-locked streaming injections, optical reticle OCR perception, and runtime hardware observability.
+
+[![Watch STARK OS System Architecture Demo](https://img.youtube.com/vi/48iPKLrLTUU/maxresdefault.jpg)](https://youtu.be/48iPKLrLTUU)
+
+**[▶ Watch Full System Architecture & Runtime Walkthrough on YouTube](https://youtu.be/48iPKLrLTUU)**
+
+---
+
+---
+
 
 ## 📈 Activity Graph:
 
