@@ -47,6 +47,19 @@
 
 ---
 
+## 🖥️ FEATURED RUNTIME: STARK OS
+
+### **Autonomous Multi-Agent Documentation Intelligence & System Telemetry**
+
+> An architectural demonstration of dual-agent perception (`JARVIS` & `FRIDAY`) dynamically ingesting, navigating, and evaluating unconstrained technical documentation and PDFs—extracting structured system summaries in real-time under low-spec hardware constraints.
+
+🔗 **[View Architecture Breakdown & Live Runtime Demo on LinkedIn](https://lnkd.in/p/eWJQX6kF)**
+
+---
+
+
+---
+
 
 ## 🧩 Decode Commits
 
@@ -70,15 +83,6 @@
 ## ⚡ Highlight
 
 > **I don’t just train models — I design how they behave as systems.**
-
----
-
-### 🖥️ FEATURED RUNTIME // STARK OS
-**Autonomous Multi-Agent Documentation Intelligence & System Telemetry**
-
-An architectural demonstration of dual-agent perception (`JARVIS` & `FRIDAY`) dynamically ingesting, navigating, and evaluating unconstrained technical documentation and PDFs—extracting structured system summaries in real-time under low-spec hardware constraints.
-
-🔗 **[View Architecture Breakdown & Live Runtime Demo on LinkedIn](https://lnkd.in/p/eWJQX6kF)**
 
 ---
 
