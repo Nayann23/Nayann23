@@ -72,9 +72,9 @@
 
 ---
 
-## **🖥️ THE DOCVAULT ENGINE**
+## **🖥️ THE ARCVAULT ENGINE**
 
-**I recently engineered DocVault — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
+**I recently engineered ArcVault — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
 
 - **18 production-style ML systems** - **Consistent input → processing → output architecture** - **Built with observability, explainability, and system constraints in mind**
 
