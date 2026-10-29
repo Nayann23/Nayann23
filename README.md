@@ -34,20 +34,19 @@ Live video demonstrations showcasing pipeline execution, deterministic agent loo
 
 An end-to-end multi-agent runtime designed for dynamic technical document parsing, context-aware navigation, and deterministic extraction under constrained edge compute:
 
-* **Dual-Agent Coordinated Runtime:** Coordinated perception and synthesis loops (`JARVIS` Document Navigator & `FRIDAY` Structured Extraction/Reviewer) operating over dense, unconstrained technical documentation.
-* **Constrained Compute Execution:** Engineered for efficient local runtime inference with minimal token overhead, deterministic telemetry logs, and validated schema output.
-
-👉 **[Watch STARK OS Architecture & Live Runtime Demo on LinkedIn ↗](https://lnkd.in/p/eWJQX6kF)**
+* **Dual-Agent Coordinated Runtime** — Coordinated perception and synthesis loops (`JARVIS` Document Navigator & `FRIDAY` Structured Extraction/Reviewer) operating over dense, unconstrained technical documentation.
+* **Constrained Compute Execution** — Engineered for efficient local runtime inference with minimal token overhead, deterministic telemetry logs, and validated schema output.
+* **Live Architecture Walkthrough** — [Watch STARK OS Runtime Demo on LinkedIn ↗](https://lnkd.in/p/eWJQX6kF)
 
 <br />
 
 ### 🎥 Additional Production Systems & Walkthroughs
 
-* **[ReviewScene AI](https://lnkd.in/p/dUbFx6Z5)** — Cinematic Review Intelligence `[Video Walkthrough ↗]`
-* **[Muvant OS](https://lnkd.in/p/dWD98BnH)** — Intelligent Relocation & Decision Intelligence `[Video Walkthrough ↗]`
-* **[Neurovia AI](https://lnkd.in/p/dERm7HQE)** — Deep Learning–Based Brain Tumor Detection `[Video Walkthrough ↗]`
-* **[PhishGuard](https://lnkd.in/p/drS9TNyP)** — Intelligent URL Phishing Threat Intelligence `[Video Walkthrough ↗]`
-* **[Symptom AI](https://lnkd.in/p/dSzQ9-K6)** — Diagnostic Intelligence System `[Video Walkthrough ↗]`
+* **ReviewScene AI** — Cinematic Review Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/dUbFx6Z5)`]`
+* **Muvant OS** — Intelligent Relocation & Decision Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/dWD98BnH)`]`
+* **Neurovia AI** — Deep Learning–Based Brain Tumor Detection `[`[Video Walkthrough ↗](https://lnkd.in/p/dERm7HQE)`]`
+* **PhishGuard** — Intelligent URL Phishing Threat Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/drS9TNyP)`]`
+* **Symptom AI** — Diagnostic Intelligence System `[`[Video Walkthrough ↗](https://lnkd.in/p/dSzQ9-K6)`]`
 
 <br />
 
@@ -55,38 +54,36 @@ An end-to-end multi-agent runtime designed for dynamic technical document parsin
 
 While the interface demos, utility packages, and video walkthroughs above are fully accessible, several production backends (persistent vector databases, multi-agent reasoning loops, and automated MLOps pipelines) are spun up on-demand to manage cloud compute and token overhead.
 
-**For Engineering Leads, Founders, and Hiring Teams:** If you are evaluating codebase structure, deterministic reasoning loops, or system design across these builds, full repository access and technical walkthroughs are available upon request via LinkedIn or email.
+* **Codebase Reviews & System Design** — Full repository access, execution logs, and architectural walk-throughs are available upon request for engineering teams and hiring leads via LinkedIn or email.
 
 ---
 
 ## 🧠 What I Build
 
-* **Agentic & Intelligent Systems:** Multi-agent orchestration workflows, deterministic reasoning loops, reviewer-validation pipelines, and autonomous AI systems.
-* **Knowledge & Retrieval Architectures:** Production RAG pipelines, document intelligence engines, hybrid semantic search, and context-aware LLM applications.
-* **Applied ML & Deep Learning:** Predictive modeling, classification, anomaly detection, and decision-support engines integrated directly into backend microservices.
-* **Data Platforms & MLOps:** Automated data pipelines, configuration-driven architectures, containerized deployments, observability, and CI/CD automation.
-* **AI-Powered Interfaces:** Interactive telemetry dashboards, real-time streaming interfaces, conversational systems, and full-stack human-in-the-loop applications.
+* **Agentic & Intelligent Systems** — Multi-agent orchestration workflows, deterministic reasoning loops, reviewer-validation pipelines, and autonomous AI systems.
+* **Knowledge & Retrieval Architectures** — Production RAG pipelines, document intelligence engines, hybrid semantic search, and context-aware LLM applications.
+* **Applied ML & Deep Learning** — Predictive modeling, classification, anomaly detection, and decision-support engines integrated directly into backend microservices.
+* **Data Platforms & MLOps** — Automated data pipelines, configuration-driven architectures, containerized deployments, observability, and CI/CD automation.
+* **AI-Powered Interfaces** — Interactive telemetry dashboards, real-time streaming interfaces, conversational systems, and full-stack human-in-the-loop applications.
 
 ---
 
 ## 🛠️ Platforms & Engineering Tools
 
 ### 🖥️ ArcVault Engine
-An interactive systems architecture vault and technical documentation interface bridging complex model workflows and stakeholder-ready intelligence. Serves as a living engineering repository for production-grade Applied ML specifications.
+An interactive systems architecture vault and technical documentation interface bridging complex model workflows and stakeholder-ready intelligence.
 
-* **18+ Production-Style ML Architectures:** Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
-* **Production-First System Design:** Documented with strict observability, explainability, failure-mode handling, and latency constraints.
-
-👉 **[Explore ArcVault Engine ↗](https://arcvault-hub.vercel.app/)**
+* **18+ Production-Style ML Architectures** — Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
+* **Production-First System Design** — Documented with strict observability, explainability, failure-mode handling, and latency constraints.
+* **Interactive Vault** — [Explore ArcVault Engine ↗](https://arcvault-hub.vercel.app/)
 
 <br />
 
 ### 🧩 Decode Commits
-*GitHub records **what** happened. Decode Commits explains **why** it happened.*
+*GitHub records what happened. Decode Commits explains why it happened.*
 
-An interactive engineering retrospective tool built to provide context, architectural motivation, and decision history behind Git contribution graphs.
-
-👉 **[Launch Decode Commits ↗](https://decode-commit.vercel.app/)**
+* **Engineering Retrospective** — An interactive tool built to provide context, architectural motivation, and decision history behind Git contribution graphs.
+* **Interactive Platform** — [Launch Decode Commits ↗](https://decode-commit.vercel.app/)
 
 ---
 
