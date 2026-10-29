@@ -7,86 +7,92 @@
   📍 Based in Pune, Maharashtra, India
 </p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=20&pause=1200&color=FFFFFF&width=700&lines=APPLIED+DATA+SCIENTIST;BUILDING+END-TO-END+ML+SYSTEMS;RAG+AND+KNOWLEDGE+RETRIEVAL+APPLICATIONS;SECURITY+AND+RISK+INTELLIGENCE+SYSTEMS;TURNING+MODELS+INTO+USABLE+PRODUCTS" alt="Typing SVG" />
+</p>
+
 <br />
-
-## 👨‍💻 About Me
-
-> **I am a Data Scientist & Applied Machine Learning Engineer focused on building production-grade AI systems that bridge Machine Learning, System Design, and Interactive User Experiences.**
-
-> **Training a model is often the baseline. Engineering systems that make predictions deterministic, observable, scalable, and trustworthy in production is where my primary focus lies.**
-
-> **My work extends beyond baseline modeling into Multi-Agent Workflows, Retrieval Pipelines, MLOps Automation, and Full-Stack Integration, backed by an ex-MERN engineering foundation to ship AI as complete products.**
-
-> **My primary interests include Multi-Agent Architectures, Retrieval-Augmented Generation (RAG), Production MLOps, System Design, and Real-Time Human-Centered AI Applications.**
 
 ---
 
-### 🔒 **PRIVATE BY DESIGN**
+## 👨‍💻 About Me
 
-> **Across 130+ repositories, my most advanced work from the last 1.5+ years—spanning 35+ end-to-end AI/ML systems and agentic workflows—is kept private by choice to protect custom architectures and implementation details.**
->
-> **The ~47 public repositories primarily reflect foundational milestones and earlier learning phases. While select systems remain actively deployed, several complete production-grade architectures are hosted on-demand or documented via private walkthroughs due to compute and infrastructure costs.**
->
-> **If you are a Recruiter, Founder, or Hiring Team interested in evaluating codebase structure, system design, or architectural depth across these recent builds, you can request access for a Technical Review.**
->
-> **📩 Reach out via email with a brief note on what you would like to evaluate, and I will share temporary repository access, system demos, or an architectural walkthrough.**
+> I am a **Data Scientist & Applied Machine Learning Engineer** focused on building production-grade AI systems that bridge Machine Learning, System Design, and Interactive User Experiences.
+
+> Training a model is often the baseline. Engineering systems that make predictions **deterministic, observable, scalable, and trustworthy** in production is where my primary focus lies.
+
+> My work extends beyond baseline modeling into **Multi-Agent Workflows, Retrieval Pipelines, MLOps Automation, and Full-Stack Integration**, backed by an ex-MERN engineering foundation to ship AI as complete products.
+
+---
+
+## 🚀 Featured Architectures & Live Systems
+
+Live video demonstrations showcasing pipeline execution, deterministic agent loops, and end-to-end inference interfaces.
+
+### 🌟 Flagship Runtime: STARK OS
+**Autonomous Multi-Agent Documentation Intelligence & System Telemetry**
+- **Dual-Agent Coordinated Runtime:** Coordinated perception and synthesis loops (`JARVIS` Document Navigator & `FRIDAY` Structured Extraction/Reviewer) operating over dense, unconstrained technical documentation.
+- **Constrained Compute Execution:** Engineered for efficient local runtime inference with minimal token overhead, deterministic telemetry logs, and validated schema output.
+- 🔗 **[Watch STARK OS Architecture & Live Runtime Demo on LinkedIn ↗](https://lnkd.in/p/eWJQX6kF)**
+
+---
+
+### 🎥 Additional Production Systems & Walkthroughs
+
+- **[ReviewScene AI](https://lnkd.in/p/dUbFx6Z5)** — Cinematic Review Intelligence `[Video Walkthrough ↗]`
+- **[Muvant OS](https://lnkd.in/p/dWD98BnH)** — Intelligent Relocation & Decision Intelligence `[Video Walkthrough ↗]`
+- **[Neurovia AI](https://lnkd.in/p/dERm7HQE)** — Deep Learning–Based Brain Tumor Detection `[Video Walkthrough ↗]`
+- **[PhishGuard](https://lnkd.in/p/drS9TNyP)** — Intelligent URL Phishing Threat Intelligence `[Video Walkthrough ↗]`
+- **[Symptom AI](https://lnkd.in/p/dSzQ9-K6)** — Diagnostic Intelligence System `[Video Walkthrough ↗]`
+
+---
+
+### 🔒 Architecture & Codebase Access
+
+> While the interface demos, utility packages, and video walkthroughs above are fully accessible, several production backends (persistent vector databases, multi-agent reasoning loops, and automated MLOps pipelines) are spun up on-demand to manage cloud compute and token overhead.
+
+> **For Engineering Leads, Founders, and Hiring Teams:**
+> If you are evaluating codebase structure, deterministic reasoning loops, or system design across these builds, full repository access and technical walkthroughs are available upon request via LinkedIn or email.
 
 ---
 
 ## 🧠 What I Build
 
-> **Agentic & Intelligent Systems: Multi-agent orchestration workflows, deterministic reasoning loops, reviewer-validation pipelines, and autonomous AI systems.**
-
-> **Knowledge & Retrieval Architectures: Production RAG pipelines, document intelligence engines, hybrid semantic search, and context-aware LLM applications.**
-
-> **Applied ML & Deep Learning: Predictive modeling, classification, anomaly detection, and decision-support engines integrated directly into end-to-end backend workflows.**
-
-> **Data Platforms & MLOps: Automated data pipelines, configuration-driven systems, containerized deployments, observability, and CI/CD automation.**
-
-> **AI-Powered Interfaces: Interactive telemetry dashboards, real-time streaming interfaces, conversational systems, and full-stack human-in-the-loop applications.**
+- **Agentic & Intelligent Systems:** Multi-agent orchestration workflows, deterministic reasoning loops, reviewer-validation pipelines, and autonomous AI systems.
+- **Knowledge & Retrieval Architectures:** Production RAG pipelines, document intelligence engines, hybrid semantic search, and context-aware LLM applications.
+- **Applied ML & Deep Learning:** Predictive modeling, classification, anomaly detection, and decision-support engines integrated directly into backend microservices.
+- **Data Platforms & MLOps:** Automated data pipelines, configuration-driven architectures, containerized deployments, observability, and CI/CD automation.
+- **AI-Powered Interfaces:** Interactive telemetry dashboards, real-time streaming interfaces, conversational systems, and full-stack human-in-the-loop applications.
 
 ---
 
-## 🖥️ FEATURED RUNTIME: STARK OS
+## 🛠️ Platforms & Engineering Tools
 
-### **Autonomous Multi-Agent Documentation Intelligence & System Telemetry**
+### 🖥️ ArcVault Engine
+An interactive systems architecture vault and technical documentation interface bridging complex model workflows and stakeholder-ready intelligence. Serves as a living engineering repository for production-grade Applied ML specifications.
 
-> An architectural demonstration of dual-agent perception (`JARVIS` & `FRIDAY`) dynamically ingesting, navigating, and evaluating unconstrained technical documentation and PDFs—extracting structured system summaries in real-time under low-spec hardware constraints.
-
-🔗 **[View Architecture Breakdown & Live Runtime Demo on LinkedIn](https://lnkd.in/p/eWJQX6kF)**
-
----
-
+- **18+ Production-Style ML Architectures:** Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
+- **Production-First System Design:** Documented with strict observability, explainability, failure-mode handling, and latency constraints.
+- 🔗 **[Explore ArcVault Engine ↗](https://arcvault-hub.vercel.app/)**
 
 ---
 
+### 🧩 Decode Commits
+> *GitHub records **what** happened. Decode Commits explains **why** it happened.*
 
-## 🧩 Decode Commits
+An interactive engineering retrospective tool built to provide context, architectural motivation, and decision history behind Git contribution graphs.
 
-> GitHub records **what** happened.
-> Decode Commits explains **why** it happened.
->
-> An interactive engineering retrospective behind my contribution history.
-
-**🔗 [Explore Decode Commits](https://decode-commit.vercel.app/)**
+- 🔗 **[Launch Decode Commits ↗](https://decode-commit.vercel.app/)**
 
 ---
 
-## **🖥️ THE ARCVAULT ENGINE**
-
-**I recently engineered ArcVault — a high-fidelity documentation interface designed to bridge the gap between complex model architecture and stakeholder-ready intelligence. It serves as my primary engineering journal for deploying enterprise-grade Applied ML systems and deep-dive technical specifications.**
-
-- **18 production-style ML systems** - **Consistent input → processing → output architecture** - **Built with observability, explainability, and system constraints in mind**
+<p align="center">
+  <em>"I don't just train models — I engineer how they behave as deterministic systems in production."</em>
+</p>
 
 ---
 
-## ⚡ Highlight
-
-> **I don’t just train models — I design how they behave as systems.**
-
----
-
-## 📈 Activity Graph:
+## 📈 Activity Graph
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayann23&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFFF&point=00FFFF&area_color=00FFFF&title_color=FFFFFF&area=true" width="100%">
@@ -94,20 +100,23 @@
 
 ---
 
-<h2 align="left">🛠 Tech Stack</h2>
+## 🛠️ Core Engine & Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,netlify,vscode,pycharm,idea,postman,figma&perline=12" />
+  <code>PYTHON</code> <code>PYTORCH</code> <code>TRANSFORMERS</code> <code>DEEP LEARNING</code> <code>MACHINE LEARNING</code> <code>MULTI-AGENT ORCHESTRATION</code> <code>RAG SYSTEMS</code> <code>LLM WORKFLOWS</code> <code>GENERATIVE AI</code> <code>REINFORCEMENT LEARNING</code> <code>TRANSFER LEARNING</code> <code>NLP</code> <code>FLASK</code> <code>SQL</code> <code>DOCKER</code> <code>CI/CD</code> <code>MLOPS</code>
 </p>
 
-<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,vscode,pycharm,postman,figma&perline=11" alt="Tech Stack Icons" />
+</p>
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **AI / ML & NLP** | Python, TensorFlow, PyTorch, Scikit-Learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Plotly, LangChain, LLMs, spaCy, NLTK, Keras, XGBoost, LightGBM, CatBoost |
-| **Frontend** | JavaScript, React, Next.js, HTML5, CSS3, TailwindCSS, GSAP, Framer Motion |
-| **Backend & Databases** | Node.js, Express, MongoDB, PostgreSQL, MySQL |
-| **DevOps & Tooling** | Docker, AWS, Vercel, Netlify, Jupyter, Colab, VS Code, Cursor, PyCharm, IntelliJ, Postman, Figma |
+| Domain                         | Core Stack & Frameworks                                                                                               |
+| :----------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Agentic AI & LLMs**          | Multi-Agent Orchestration, RAG Systems, LLM Workflows, Transformers, LangChain, Generative AI, Context Window Routing |
+| **Applied ML & Deep Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, NLP (spaCy, NLTK), Transfer Learning, Reinforcement Learning       |
+| **Backend & Data Engineering** | Flask, Node.js, Express, SQL (PostgreSQL, MySQL), MongoDB, Data Ingestion Pipelines, REST APIs                        |
+| **MLOps & Infrastructure**     | Docker, CI/CD Automation, AWS, Vercel, Model Deployment, Logging & Telemetry                                          |
+| **Frontend & Interfaces**      | JavaScript, React, Next.js, TailwindCSS, HTML5, CSS3, GSAP, Lenis, Locomotive Scroll, Interactive Dashboards          |
 
 ---
 
@@ -120,17 +129,19 @@
 
 ---
 
-# **CONNECT WITH ME HERE:**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
-
----
+## 📬 Connect With Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=20&pause=1200&color=FFFFFF&width=700&lines=APPLIED+DATA+SCIENTIST;BUILDING+END-TO-END+ML+SYSTEMS;RAG+AND+KNOWLEDGE+RETRIEVAL+APPLICATIONS;SECURITY+AND+RISK+INTELLIGENCE+SYSTEMS;TURNING+MODELS+INTO+USABLE+PRODUCTS" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/nayan-darokar-468a85294/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:reachout.nayan@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" /> 
-</div>
+<br />
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" /> 
+</div>
