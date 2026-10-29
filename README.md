@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=20&pause=1200&color=FFFFFF&width=700&lines=APPLIED+DATA+SCIENTIST;BUILDING+END-TO-END+ML+SYSTEMS;RAG+AND+KNOWLEDGE+RETRIEVAL+APPLICATIONS;SECURITY+AND+RISK+INTELLIGENCE+SYSTEMS;TURNING+MODELS+INTO+USABLE+PRODUCTS" alt="Typing SVG" />
 </p>
 
-<br />
+---
 
 ---
 
@@ -29,42 +29,54 @@ My work extends beyond baseline modeling into **Multi-Agent Workflows, Retrieval
 
 Live video demonstrations showcasing pipeline execution, deterministic agent loops, and end-to-end inference interfaces.
 
+---
+
 ### 🌟 Flagship Runtime: STARK OS
 **Autonomous Multi-Agent Documentation Intelligence & System Telemetry**
 
 An end-to-end multi-agent runtime designed for dynamic technical document parsing, context-aware navigation, and deterministic extraction under constrained edge compute:
 
-* **Dual-Agent Coordinated Runtime** — Coordinated perception and synthesis loops (`JARVIS` Document Navigator & `FRIDAY` Structured Extraction/Reviewer) operating over dense, unconstrained technical documentation.
-* **Constrained Compute Execution** — Engineered for efficient local runtime inference with minimal token overhead, deterministic telemetry logs, and validated schema output.
-* **Live Architecture Walkthrough** — [Watch STARK OS Runtime Demo on LinkedIn ↗](https://lnkd.in/p/eWJQX6kF)
+**Dual-Agent Coordinated Runtime** — Coordinated perception and synthesis loops (`JARVIS` Document Navigator & `FRIDAY` Structured Extraction/Reviewer) operating over dense, unconstrained technical documentation.
 
-<br />
+**Constrained Compute Execution** — Engineered for efficient local runtime inference with minimal token overhead, deterministic telemetry logs, and validated schema output.
+
+👉 **[Watch STARK OS Runtime Demo on LinkedIn ↗](https://lnkd.in/p/eWJQX6kF)**
+
+---
 
 ### 🎥 Additional Production Systems & Walkthroughs
 
-* **ReviewScene AI** — Cinematic Review Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/dUbFx6Z5)`]`
-* **Muvant OS** — Intelligent Relocation & Decision Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/dWD98BnH)`]`
-* **Neurovia AI** — Deep Learning–Based Brain Tumor Detection `[`[Video Walkthrough ↗](https://lnkd.in/p/dERm7HQE)`]`
-* **PhishGuard** — Intelligent URL Phishing Threat Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/drS9TNyP)`]`
-* **Symptom AI** — Diagnostic Intelligence System `[`[Video Walkthrough ↗](https://lnkd.in/p/dSzQ9-K6)`]`
+**ReviewScene AI** — Cinematic Review Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/dUbFx6Z5)`]`
 
-<br />
+**Muvant OS** — Intelligent Relocation & Decision Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/dWD98BnH)`]`
+
+**Neurovia AI** — Deep Learning–Based Brain Tumor Detection `[`[Video Walkthrough ↗](https://lnkd.in/p/dERm7HQE)`]`
+
+**PhishGuard** — Intelligent URL Phishing Threat Intelligence `[`[Video Walkthrough ↗](https://lnkd.in/p/drS9TNyP)`]`
+
+**Symptom AI** — Diagnostic Intelligence System `[`[Video Walkthrough ↗](https://lnkd.in/p/dSzQ9-K6)`]`
+
+---
 
 ### 🔒 Architecture & Codebase Access
 
 While the interface demos, utility packages, and video walkthroughs above are fully accessible, several production backends (persistent vector databases, multi-agent reasoning loops, and automated MLOps pipelines) are spun up on-demand to manage cloud compute and token overhead.
 
-* **Codebase Reviews & System Design** — Full repository access, execution logs, and architectural walk-throughs are available upon request for engineering teams and hiring leads via LinkedIn or email.
+**Codebase Reviews & System Design** — Full repository access, execution logs, and architectural walk-throughs are available upon request for engineering teams and hiring leads via LinkedIn or email.
 
 ---
 
 ## 🧠 What I Build
 
-* **Agentic & Intelligent Systems** — Multi-agent orchestration workflows, deterministic reasoning loops, reviewer-validation pipelines, and autonomous AI systems.
-* **Knowledge & Retrieval Architectures** — Production RAG pipelines, document intelligence engines, hybrid semantic search, and context-aware LLM applications.
-* **Applied ML & Deep Learning** — Predictive modeling, classification, anomaly detection, and decision-support engines integrated directly into backend microservices.
-* **Data Platforms & MLOps** — Automated data pipelines, configuration-driven architectures, containerized deployments, observability, and CI/CD automation.
-* **AI-Powered Interfaces** — Interactive telemetry dashboards, real-time streaming interfaces, conversational systems, and full-stack human-in-the-loop applications.
+**Agentic & Intelligent Systems** — Multi-agent orchestration workflows, deterministic reasoning loops, reviewer-validation pipelines, and autonomous AI systems.
+
+**Knowledge & Retrieval Architectures** — Production RAG pipelines, document intelligence engines, hybrid semantic search, and context-aware LLM applications.
+
+**Applied ML & Deep Learning** — Predictive modeling, classification, anomaly detection, and decision-support engines integrated directly into backend microservices.
+
+**Data Platforms & MLOps** — Automated data pipelines, configuration-driven architectures, containerized deployments, observability, and CI/CD automation.
+
+**AI-Powered Interfaces** — Interactive telemetry dashboards, real-time streaming interfaces, conversational systems, and full-stack human-in-the-loop applications.
 
 ---
 
@@ -73,17 +85,20 @@ While the interface demos, utility packages, and video walkthroughs above are fu
 ### 🖥️ ArcVault Engine
 An interactive systems architecture vault and technical documentation interface bridging complex model workflows and stakeholder-ready intelligence.
 
-* **18+ Production-Style ML Architectures** — Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
-* **Production-First System Design** — Documented with strict observability, explainability, failure-mode handling, and latency constraints.
-* **Interactive Vault** — [Explore ArcVault Engine ↗](https://arcvault-hub.vercel.app/)
+**18+ Production-Style ML Architectures** — Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
 
-<br />
+**Production-First System Design** — Documented with strict observability, explainability, failure-mode handling, and latency constraints.
+
+👉 **[Explore ArcVault Engine ↗](https://arcvault-hub.vercel.app/)**
+
+---
 
 ### 🧩 Decode Commits
 *GitHub records what happened. Decode Commits explains why it happened.*
 
-* **Engineering Retrospective** — An interactive tool built to provide context, architectural motivation, and decision history behind Git contribution graphs.
-* **Interactive Platform** — [Launch Decode Commits ↗](https://decode-commit.vercel.app/)
+**Engineering Retrospective** — An interactive tool built to provide context, architectural motivation, and decision history behind Git contribution graphs.
+
+👉 **[Launch Decode Commits ↗](https://decode-commit.vercel.app/)**
 
 ---
 
@@ -103,13 +118,13 @@ An interactive systems architecture vault and technical documentation interface 
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,vscode,pycharm,postman,figma&perline=11" alt="Tech Stack Icons" />
 </p>
 
-| Domain | Core Stack & Frameworks |
-| :--- | :--- |
-| **Agentic AI & LLMs** | Multi-Agent Orchestration, RAG Systems, LLM Workflows, Transformers, LangChain, Generative AI, Context Window Routing |
-| **Applied ML & Deep Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, NLP (spaCy, NLTK), Transfer Learning, Reinforcement Learning |
-| **Backend & Data Engineering** | Flask, Node.js, Express, SQL (PostgreSQL, MySQL), MongoDB, Data Ingestion Pipelines, REST APIs |
-| **MLOps & Infrastructure** | Docker, CI/CD Automation, AWS, Vercel, Model Deployment, Logging & Telemetry |
-| **Frontend & Interfaces** | JavaScript, React, Next.js, TailwindCSS, HTML5, CSS3, GSAP, Lenis, Locomotive Scroll, Interactive Dashboards |
+| Domain                         | Core Stack & Frameworks                                                                                               |
+| :----------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Agentic AI & LLMs**          | Multi-Agent Orchestration, RAG Systems, LLM Workflows, Transformers, LangChain, Generative AI, Context Window Routing |
+| **Applied ML & Deep Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, NLP (spaCy, NLTK), Transfer Learning, Reinforcement Learning       |
+| **Backend & Data Engineering** | Flask, Node.js, Express, SQL (PostgreSQL, MySQL), MongoDB, Data Ingestion Pipelines, REST APIs                        |
+| **MLOps & Infrastructure**     | Docker, CI/CD Automation, AWS, Vercel, Model Deployment, Logging & Telemetry                                          |
+| **Frontend & Interfaces**      | JavaScript, React, Next.js, TailwindCSS, HTML5, CSS3, GSAP, Lenis, Locomotive Scroll, Interactive Dashboards          |
 
 ---
 
@@ -133,7 +148,7 @@ An interactive systems architecture vault and technical documentation interface 
   </a>
 </p>
 
-<br />
+---
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Nayann23&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" /> 
