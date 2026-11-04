@@ -13,8 +13,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 I am a **Data Scientist & Applied Machine Learning Engineer** focused on building production-grade AI systems that bridge Machine Learning, System Design, and Interactive User Experiences.
