@@ -87,8 +87,6 @@ An interactive systems architecture vault and technical documentation interface 
 
 **Production-First System Design** — Documented with strict observability, explainability, failure-mode handling, and latency constraints.
 
-👉 **[Explore ArcVault Engine ↗](https://arcvault-hub.vercel.app/)**
-
 ---
 
 ### 🧩 Decode Commits
