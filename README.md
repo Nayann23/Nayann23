@@ -83,7 +83,7 @@ While the interface demos, utility packages, and video walkthroughs above are fu
 ### 🖥️ ArcVault Engine
 An interactive systems architecture vault and technical documentation interface bridging complex model workflows and stakeholder-ready intelligence.
 
-**18+ Production-Style ML Architectures** — Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
+**20+ Production-Style ML Architectures** — Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
 
 **Production-First System Design** — Documented with strict observability, explainability, failure-mode handling, and latency constraints.
 
