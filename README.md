@@ -29,6 +29,8 @@ Live video demonstrations showcasing pipeline execution, deterministic agent loo
 
 👉 [Watch STARK OS Runtime Demo on LinkedIn ↗](https://lnkd.in/p/eWJQX6kF)
 
+---
+
 ### 🎥 Additional High-Fidelity Systems & Walkthroughs
 - **ReviewScene AI** — Cinematic Review Intelligence ([Video Walkthrough ↗](https://lnkd.in/p/dUbFx6Z5))
 - **Muvant OS** — Intelligent Relocation & Decision Intelligence ([Video Walkthrough ↗](https://lnkd.in/p/dWD98BnH))
@@ -36,9 +38,13 @@ Live video demonstrations showcasing pipeline execution, deterministic agent loo
 - **PhishGuard** — Intelligent URL Phishing Threat Intelligence ([Video Walkthrough ↗](https://lnkd.in/p/drS9TNyP))
 - **Symptom AI** — Diagnostic Intelligence System ([Video Walkthrough ↗](https://lnkd.in/p/dSzQ9-K6))
 
+---
+
 ### 🛠️ Architectural Platforms
 - **🏛️ [ArcVault Hub](https://arcvault-hub.vercel.app/):** Full 20-system architecture catalog documenting inputs, inference workflows, failure-mode handling, and deterministic outputs.
 - **🧩 [Decode Commits](https://decode-commit.vercel.app/):** Engineering retrospective console—GitHub records *what* happened; Decode Commits explains the architectural *why* behind commit history.
+
+---
 
 ### 🔒 Architecture & Codebase Access
 While the interface demos, utility packages, and video walkthroughs above are fully accessible, several persistent backends (vector databases, multi-agent reasoning loops, and automated data pipelines) are spun up on-demand to manage cloud compute and token overhead. Across **130+ repositories**, 35+ end-to-end AI/ML systems are kept **Private by Design** to protect custom architectures.
