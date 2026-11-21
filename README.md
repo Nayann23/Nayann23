@@ -2,8 +2,6 @@
 
 📍 Based in Pune, Maharashtra, India
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=20&pause=1200&color=FFFFFF&width=700&lines=APPLIED+DATA+SCIENTIST+%26+ML+ENGINEER;BUILDING+DETERMINISTIC+HIGH-FIDELITY+AI+SYSTEMS;MULTI-AGENT+ORCHESTRATION+%26+RAG+ARCHITECTURES;SECURITY+%26+PERCEPTION+INTELLIGENCE+SYSTEMS;TURNING+MODELS+INTO+END-TO-END+PRODUCTS)
-
 > *"I don't just train models — I engineer how they behave as deterministic, high-fidelity systems."*
 
 ---
