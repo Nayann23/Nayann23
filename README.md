@@ -2,17 +2,19 @@
 
 📍 Based in Pune, Maharashtra, India
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=20&pause=1200&color=FFFFFF&width=700&lines=APPLIED+DATA+SCIENTIST;BUILDING+END-TO-END+ML+SYSTEMS;RAG+AND+KNOWLEDGE+RETRIEVAL+APPLICATIONS;SECURITY+AND+RISK+INTELLIGENCE+SYSTEMS;TURNING+MODELS+INTO+USABLE+PRODUCTS)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=20&pause=1200&color=FFFFFF&width=700&lines=APPLIED+DATA+SCIENTIST+%26+ML+ENGINEER;BUILDING+DETERMINISTIC+HIGH-FIDELITY+AI+SYSTEMS;MULTI-AGENT+ORCHESTRATION+%26+RAG+ARCHITECTURES;SECURITY+%26+PERCEPTION+INTELLIGENCE+SYSTEMS;TURNING+MODELS+INTO+END-TO-END+PRODUCTS)
+
+> *"I don't just train models — I engineer how they behave as deterministic, high-fidelity systems."*
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Engineering Philosophy & Validation
 
-I am a **Data Scientist & Applied Machine Learning Engineer** focused on building production-grade AI systems that bridge Machine Learning, System Design, and Interactive User Experiences.
+Backed by an ex-MERN full-stack foundation, I operate across the entire stack—architecting **Multi-Agent Workflows, Source-Grounded RAG Pipelines, Edge Perception Systems, and Full-Stack Telemetry Interfaces** rather than stopping at isolated model notebooks.
 
-Training a model is often the baseline. Engineering systems that make predictions **deterministic, observable, scalable, and trustworthy** in production is where my primary focus lies.
-
-My work extends beyond baseline modeling into **Multi-Agent Workflows, Retrieval Pipelines, MLOps Automation, and Full-Stack Integration**, backed by an ex-MERN engineering foundation to ship AI as complete products.
+- **Systems Over Notebooks:** Every pipeline is adversarially stress-tested against malformed inputs, latency spikes, and boundary conditions until execution is deterministic, observable, and schema-validated.
+- **Industry Commendation:** Publicly reviewed and commended on LinkedIn by a **Senior AI Product Manager at Google** for systems thinking and technical execution on STARK OS ([Verification ↗](https://lnkd.in/p/eWJQX6kF)).
+- **Peer-Reviewed Research:** Author of two 2024 publications indexed in **IJCRT** covering neural conversational agents and acoustic voice conversion.
 
 ---
 
@@ -21,82 +23,43 @@ My work extends beyond baseline modeling into **Multi-Agent Workflows, Retrieval
 Live video demonstrations showcasing pipeline execution, deterministic agent loops, and end-to-end inference interfaces.
 
 ### 🌟 Flagship Runtime: STARK OS
-
 **Autonomous Multi-Agent Documentation Intelligence & System Telemetry**
-
 - **Dual-Agent Coordinated Runtime:** Coordinated perception and synthesis loops (`JARVIS` Document Navigator & `FRIDAY` Structured Extraction/Reviewer) operating over dense, unconstrained technical documentation.
 - **Constrained Compute Execution:** Engineered for efficient local runtime inference with minimal token overhead, deterministic telemetry logs, and validated schema output.
 
 👉 [Watch STARK OS Runtime Demo on LinkedIn ↗](https://lnkd.in/p/eWJQX6kF)
 
-### 🎥 Additional Production Systems & Walkthroughs
-
+### 🎥 Additional High-Fidelity Systems & Walkthroughs
 - **ReviewScene AI** — Cinematic Review Intelligence ([Video Walkthrough ↗](https://lnkd.in/p/dUbFx6Z5))
 - **Muvant OS** — Intelligent Relocation & Decision Intelligence ([Video Walkthrough ↗](https://lnkd.in/p/dWD98BnH))
 - **Neurovia AI** — Deep Learning–Based Brain Tumor Detection ([Video Walkthrough ↗](https://lnkd.in/p/dERm7HQE))
 - **PhishGuard** — Intelligent URL Phishing Threat Intelligence ([Video Walkthrough ↗](https://lnkd.in/p/drS9TNyP))
 - **Symptom AI** — Diagnostic Intelligence System ([Video Walkthrough ↗](https://lnkd.in/p/dSzQ9-K6))
 
+### 🛠️ Architectural Platforms
+- **🏛️ [ArcVault Hub](https://arcvault-hub.vercel.app/):** Full 20-system architecture catalog documenting inputs, inference workflows, failure-mode handling, and deterministic outputs.
+- **🧩 [Decode Commits](https://decode-commit.vercel.app/):** Engineering retrospective console—GitHub records *what* happened; Decode Commits explains the architectural *why* behind commit history.
+
 ### 🔒 Architecture & Codebase Access
+While the interface demos, utility packages, and video walkthroughs above are fully accessible, several persistent backends (vector databases, multi-agent reasoning loops, and automated data pipelines) are spun up on-demand to manage cloud compute and token overhead. Across **130+ repositories**, 35+ end-to-end AI/ML systems are kept **Private by Design** to protect custom architectures.
 
-While the interface demos, utility packages, and video walkthroughs above are fully accessible, several production backends (persistent vector databases, multi-agent reasoning loops, and automated MLOps pipelines) are spun up on-demand to manage cloud compute and token overhead.
-
-**Codebase Reviews & System Design:** Full repository access, execution logs, and architectural walk-throughs are available upon request for engineering teams and hiring leads via LinkedIn or email.
-
----
-
-## 🧠 What I Build
-
-- **Agentic & Intelligent Systems:** Multi-agent orchestration workflows, deterministic reasoning loops, reviewer-validation pipelines, and autonomous AI systems.
-- **Knowledge & Retrieval Architectures:** Production RAG pipelines, document intelligence engines, hybrid semantic search, and context-aware LLM applications.
-- **Applied ML & Deep Learning:** Predictive modeling, classification, anomaly detection, and decision-support engines integrated directly into backend microservices.
-- **Data Platforms & MLOps:** Automated data pipelines, configuration-driven architectures, containerized deployments, observability, and CI/CD automation.
-- **AI-Powered Interfaces:** Interactive telemetry dashboards, real-time streaming interfaces, conversational systems, and full-stack human-in-the-loop applications.
-
----
-
-## 🛠️ Platforms & Engineering Tools
-
-### 🖥️ ArcVault Engine
-
-An interactive systems architecture vault and technical documentation interface bridging complex model workflows and stakeholder-ready intelligence.
-
-- **20+ Production-Style ML Architectures:** Comprehensive system breakdowns covering inputs, inference workflows, and deterministic outputs.
-- **Production-First System Design:** Documented with strict observability, explainability, failure-mode handling, and latency constraints.
-
-### 🧩 Decode Commits
-
-*GitHub records what happened. Decode Commits explains why it happened.*
-
-**Engineering Retrospective:** An interactive tool built to provide context, architectural motivation, and decision history behind Git contribution graphs.
-
-👉 [Launch Decode Commits ↗](https://decode-commit.vercel.app/)
-
----
-
-<p align="center">
-  <em>"I don't just train models — I engineer how they behave as deterministic systems in production."</em>
-</p>
+**Codebase Reviews & System Design:** Full repository access, execution logs, and architectural walkthroughs are available upon request for engineering teams and hiring leads via [LinkedIn](https://www.linkedin.com/in/nayan-darokar-468a85294/) or [email](mailto:reachout.nayan@gmail.com).
 
 ---
 
 ## 🛠️ Core Engine & Tech Stack
 
 <p align="left">
-  <code>PYTHON</code> <code>PYTORCH</code> <code>TRANSFORMERS</code> <code>DEEP LEARNING</code> <code>MACHINE LEARNING</code> <code>MULTI-AGENT ORCHESTRATION</code> <code>RAG SYSTEMS</code> <code>LLM WORKFLOWS</code> <code>GENERATIVE AI</code> <code>REINFORCEMENT LEARNING</code> <code>TRANSFER LEARNING</code> <code>NLP</code> <code>FLASK</code> <code>SQL</code> <code>DOCKER</code> <code>CI/CD</code> <code>MLOPS</code>
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,vscode,pycharm,postman,figma&perline=11" alt="Tech Stack Icons" />
 </p>
 
-| Domain | Core Stack & Frameworks |
-|:---|:---|
-| **Agentic AI & LLMs** | Multi-Agent Orchestration, RAG Systems, LLM Workflows, Transformers, LangChain, Generative AI, Context Window Routing |
-| **Applied ML & Deep Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, NLP (spaCy, NLTK), Transfer Learning, Reinforcement Learning |
-| **Backend & Data Engineering** | Flask, Node.js, Express, SQL (PostgreSQL, MySQL), MongoDB, Data Ingestion Pipelines, REST APIs |
-| **MLOps & Infrastructure** | Docker, CI/CD Automation, AWS, Vercel, Model Deployment, Logging & Telemetry |
-| **Frontend & Interfaces** | JavaScript, React, Next.js, TailwindCSS, HTML5, CSS3, GSAP, Lenis, Locomotive Scroll, Interactive Dashboards |
+| Domain                         | Core Stack & Frameworks                                                                                                             |
+| :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
+| **Agentic AI & LLMs**          | Multi-Agent Orchestration, RAG Systems, LLM Workflows, Transformers, LangChain, Context Window Routing, Guardrails & Eval Harnesses |
+| **Applied ML & Deep Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, NLP (spaCy, NLTK), Transfer Learning, Reinforcement Learning                     |
+| **Backend & Data Engineering** | FastAPI, Flask, Node.js, Express, SQL (PostgreSQL, MySQL, SQLite), MongoDB, FAISS Vector Search, REST APIs                          |
+| **Infra & Observability**      | Docker, CI/CD Automation, AWS, Vercel, Model Deployment, Logging & Telemetry                                                        |
+| **Frontend & Interfaces**      | JavaScript, React, Next.js, Tailwind CSS, HTML5, CSS3, GSAP, Lenis, Interactive Control Dashboards                                  |
 
 ---
 
@@ -112,6 +75,9 @@ An interactive systems architecture vault and technical documentation interface 
 ## 📬 Connect With Me
 
 <p align="left">
+  <a href="https://nayan-applied-mle.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/nayan-darokar-468a85294/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
