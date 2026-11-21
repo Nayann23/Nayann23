@@ -8,7 +8,9 @@
 
 ## 🧠 Engineering Philosophy & Validation
 
-Backed by an ex-MERN full-stack foundation, I operate across the entire stack—architecting **Multi-Agent Workflows, Source-Grounded RAG Pipelines, Edge Perception Systems, and Full-Stack Telemetry Interfaces** rather than stopping at isolated model notebooks.
+> *"I don't have a job title on my résumé. I have models behind real APIs, an evaluation habit, and 18 months of learning by shipping alone. What I offer is the bridge between a promising notebook and a service someone can rely on."*
+
+For the past 18 months, I have operated simultaneously as my own **Product Manager, ML Engineer, Backend Architect, and Frontend Developer**. Backed by an ex-MERN full-stack foundation, I operate across the entire stack—architecting **Multi-Agent Workflows, Source-Grounded RAG Pipelines, Edge Perception Systems, and Full-Stack Telemetry Interfaces** rather than stopping at isolated model notebooks.
 
 - **Systems Over Notebooks:** Every pipeline is adversarially stress-tested against malformed inputs, latency spikes, and boundary conditions until execution is deterministic, observable, and schema-validated.
 - **Industry Commendation:** Publicly reviewed and commended on LinkedIn by a **Senior AI Product Manager at Google** for systems thinking and technical execution on STARK OS ([Verification ↗](https://lnkd.in/p/eWJQX6kF)).
@@ -51,13 +53,13 @@ While the interface demos, utility packages, and video walkthroughs above are fu
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,aws,vercel,vscode,pycharm,postman,figma&perline=11" alt="Tech Stack Icons" />
 </p>
 
-| Domain                         | Core Stack & Frameworks                                                                                                             |
-| :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| **Agentic AI & LLMs**          | Multi-Agent Orchestration, RAG Systems, LLM Workflows, Transformers, LangChain, Context Window Routing, Guardrails & Eval Harnesses |
-| **Applied ML & Deep Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, NLP (spaCy, NLTK), Transfer Learning, Reinforcement Learning                     |
-| **Backend & Data Engineering** | FastAPI, Flask, Node.js, Express, SQL (PostgreSQL, MySQL, SQLite), MongoDB, FAISS Vector Search, REST APIs                          |
-| **Infra & Observability**      | Docker, CI/CD Automation, AWS, Vercel, Model Deployment, Logging & Telemetry                                                        |
-| **Frontend & Interfaces**      | JavaScript, React, Next.js, Tailwind CSS, HTML5, CSS3, GSAP, Lenis, Interactive Control Dashboards                                  |
+| Domain | Core Stack & Frameworks |
+|:---|:---|
+| **Agentic AI & LLMs** | Multi-Agent Orchestration, RAG Systems, LLM Workflows, Transformers, LangChain, Context Window Routing, Guardrails & Eval Harnesses |
+| **Applied ML & Deep Learning** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, NLP (spaCy, NLTK), Transfer Learning, Reinforcement Learning |
+| **Backend & Data Engineering** | FastAPI, Flask, Node.js, Express, SQL (PostgreSQL, MySQL, SQLite), MongoDB, FAISS Vector Search, REST APIs |
+| **Infra & Observability** | Docker, CI/CD Automation, AWS, Vercel, Model Deployment, Logging & Telemetry |
+| **Frontend & Interfaces** | JavaScript, React, Next.js, Tailwind CSS, HTML5, CSS3, GSAP, Lenis, Interactive Control Dashboards |
 
 ---
 
