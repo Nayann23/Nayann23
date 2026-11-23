@@ -81,7 +81,7 @@ While the interface demos, utility packages, and video walkthroughs above are fu
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://nayan-applied-mle.vercel.app/" target="_blank">
+  <a href="https://nayan-portfolio-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/nayan-darokar-468a85294/" target="_blank">
